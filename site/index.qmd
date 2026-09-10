@@ -1,0 +1,10 @@
+---
+title: "宇野佑のHP"
+---
+
+## ページ一覧
+
+- [プロフィール](about.qmd)
+- [最初の記事](posts/firstpost.qmd)
+- [二つ目の記事](posts/secondpost.qmd)
+- [日記](../diary/index.qmd)
