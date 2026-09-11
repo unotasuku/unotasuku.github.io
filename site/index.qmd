@@ -8,4 +8,4 @@ title: "宇野佑のHP"
 - [最初の記事](posts/firstpost.qmd)
 - [二つ目の記事](posts/secondpost.qmd)
 - [日記](../diary/index.qmd)
-- [資料集]
+- [資料集](..source/index.qmd)
