@@ -2,14 +2,9 @@ project:
   type: website
 
 website:
-  title: "宇野佑のHP"
   navbar:
-    left:
-      - href: site/index.qmd
-        text: "ホーム"
-      - href: site/about.qmd
-        text: "プロフィール"
+    left: []
 
 format:
   html:
-    toc: true
+    toc: false
