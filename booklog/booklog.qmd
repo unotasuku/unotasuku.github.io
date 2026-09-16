@@ -1,5 +1,23 @@
 ---
-title : 読んだ本のリスト
+title : 読んだ本、見た映画、ドラマのリスト
 ---
 
--
+2026年
+
+## 読んだ本 
+
+1. 
+
+2.
+
+3.
+
+4.
+
+5.
+
+## 見たドラマ
+
+1. リーチャー (Season4) [Amazon Prime Video](https://www.amazon.co.jp/gp/video/detail/B09R26WLZ5?ref_=atv_sr_fle_c_sr78dced_pvsearchresults_1_1) : とにかく大男が暴れ回るというコンセプトで一貫している。 : とにかく大男が暴れ回るというコンセプトで一貫している。話の内容はあまり気にしない方が良い。
+
+[トップへ戻る](../site/index.qmd)
