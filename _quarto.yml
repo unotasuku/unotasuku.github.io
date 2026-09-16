@@ -3,8 +3,13 @@ project:
 
 website:
   navbar:
-    left: []
+    left: 
+         - href: site/index.qmd
+           text: "ホーム"
+         - href: diary/index.qmd
+           text: "日記一覧"
 
 format:
   html:
     toc: false
+    css: styles.css
