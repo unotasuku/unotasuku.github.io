@@ -7,160 +7,192 @@ lang: ja
 
 学会、団体、企業、嚥下食・介護食、レストラン、製品情報などの探索メモ。
 
-> 注：元メモの内容をできるだけ保持した初回分類です。公開前に表現・リンク・重複を再確認してください。
-
-サーベイランス 医療資源に関するサイト
-
-[https://www.swallowing.link](https://www.swallowing.link/)
-
-学会・社団法人・NPO等
-
-[https://www.jsdr.or.jp](https://www.jsdr.or.jp/)
-
-業界最大手。とりあえず色々と情報がある。
-
-[https://ktsm.jimdofree.com](https://ktsm.jimdofree.com/)
-
-かなり包括的に諸々の関係がサーベイされている
-
-[https://fc-science.or.jp/index.html](https://fc-science.or.jp/index.html)
-
-色々と立ち上げているみたいだけどどうなるか。
-
-[https://chobo-care.comhttps://chobo-care.com](https://chobo-care.comhttps//chobo-care.com) 栄養士さん主体っぽい。
-
-嚥下食・介護食関連サイト
-
-[https://www.engesyoku.com/index.html](https://www.engesyoku.com/index.html)
-
-おそらくこの手の試みの最大手。HPのデザインもお金かけている。場所的にも藤島Drの近くなので、妥当。
-
-[https://www.nutri.co.jp/index.html](https://www.nutri.co.jp/index.html)
-
-企業。とろみや補助栄養がメイン。レシピが色々と上がってる。[https://www.nutri.co.jp/nutrition/keywords/index.html　は栄養について基礎知識がある。](https://www.nutri.co.jp/nutrition/keywords/index.html%E3%80%80%E3%81%AF%E6%A0%84%E9%A4%8A%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98%E3%81%8C%E3%81%82%E3%82%8B%E3%80%82)
-
-[https://als-station.jp/index.html](https://als-station.jp/index.html)
-
-神経難病についての嚥下レシピを上げている。神経難病の嚥下動態についても動画を上げてくれている。
-
-[https://ene.osakagas.co.jp/product/kitchen/suchikon-recipe/](https://ene.osakagas.co.jp/product/kitchen/suchikon-recipe/)
-
-大阪ガス。意外なところの意外なサイト。減塩食や嚥下食についてのレシピがある。
-
-[https://www.kewpie.co.jp/udfood/](https://www.kewpie.co.jp/udfood/)
-
-キューピーのサイト。大手なのでサンプルは手に入れやすい。
-
-[https://www.watami-takushoku.co.jp/contents/b2b\_lp?utm\_source=google&utm\_medium=cpc&utm\_campaign=b2b\_d01\_16&gclid=Cj0KCQjwyMiTBhDKARIsAAJ-9VtnfbKAQeWvYU8pPKLFnMCuoK7TWHX7LapTpaUfar08PMlCA9aEC\_waArOJEALw\_wcB](https://www.watami-takushoku.co.jp/contents/b2b_lp?utm_source=google\&utm_medium=cpc\&utm_campaign=b2b_d01_16\&gclid=Cj0KCQjwyMiTBhDKARIsAAJ-9VtnfbKAQeWvYU8pPKLFnMCuoK7TWHX7LapTpaUfar08PMlCA9aEC_waArOJEALw_wcB)
-
-当たり前だが、居酒屋もこういう方向は探っている。
-
-[https://nestle.jp/nutrition/product/isocal/knowledge/#carefood](https://nestle.jp/nutrition/product/isocal/knowledge/#carefood)
-
-大手のネスレ。商品もあるが、お酒はない。
-
-[https://medifoods.jp/yawaraka/](https://medifoods.jp/yawaraka/)
-
-メディカルフーズを謳うくらいなので糖尿や嚥下障害etc.の 条件に合わせたメニューが上がっている。
-
-[https://conoiro.jp](https://conoiro.jp/)
-
-嚥下食は扱っているが、飲み物の方は弱い。
-
-[https://hanzoya.co.jp/restaurant/concept/index.html](https://hanzoya.co.jp/restaurant/concept/index.html)
-
-高級ラインではこのレストランがおそらく出色。
-
-[https://etenpo.net/3630](https://etenpo.net/3630)
-
-上記サイトのお店の紹介。
-
-[https://chojumikata.com/coverstory/628/essay](https://chojumikata.com/coverstory/628/essay)
-
-介護全般を扱っているが、この人は気になる。ちなみに少なくとも美味しそうではない。
-
-[https://ideanews.jp/archives/77187](https://ideanews.jp/archives/77187)
-
-お店の紹介。 [http://maisondetaka.jp](http://maisondetaka.jp/)
-
-レストラン　 [https://kuramarche.com](https://kuramarche.com/)
-
-通販。なぜかお酒は上がらない。
-
-[https://www.aoicorp.co.jp/lp/?gclid=EAIaIQobChMIoO3at4yg9wIVEbeWCh2NOQk1EAMYASAAEgKUwvD\_BwE](https://www.aoicorp.co.jp/lp/?gclid=EAIaIQobChMIoO3at4yg9wIVEbeWCh2NOQk1EAMYASAAEgKUwvD_BwE)
-
-ムース食の通販。見事なまでに・・・
-
-[https://engesyoku.jp](https://engesyoku.jp/)
-
-歴史の説明があるのはいい。①「潤生園」の介護食②「聖隷三方原病院」の嚥下食③嚥下食ピラミッド。④物性規準。摂食・嚥下障がい者のための食事の物性的な基準としては、1994年に当時の厚生省が設けた特別用途食品の中の高齢者用食品の基準「そしゃく困難者用食品の許可基準」「そしゃく・えん下困難者用食品の許可基準」があります。2002年には日本介護食品協議会によってユニバーサルデザインフードが作成。この2つでは不十分。栢下淳氏らが、聖隷三方原病院で提供されている食事の物性を、かたさ、凝集性(まとまりやすさ)、付着性(くっつきやすさ)の3つの項目が規準に出したデータが有る。良い増粘剤選びのポイント。ｋ
-
-ここのサイトは概要がつかみやすい。B
-
-嚥下食レストランの紹介サイト。網羅しているかは不明。
-
-[https://houmonshika.net/recipe/](https://houmonshika.net/recipe/)
-
-訪問歯科関連からの嚥下食のレシピ。当然お酒はない。
-
-[https://www.tosei-corporation.co.jp/product-pack/](https://www.tosei-corporation.co.jp/product-pack/) 　 真空包装の会社。
-
-[https://www.jcka.or.jp/product/index.html](https://www.jcka.or.jp/product/index.html) 　 嚥下食の機械の会社。
-
-[https://treha.jp/faq/#title10](https://treha.jp/faq/#title10)
-
-トレハを使った会社。
-
-[https://www.care-show.com/medicarefoods/](https://www.care-show.com/medicarefoods/)
-
-嚥下食の展覧会。おそらく国内最大。
-
-[https://www.healthynetwork.co.jp](https://www.healthynetwork.co.jp/)
-
-嚥下食のメーカー。
-
-[https://shop.benesse-palette.co.jp/?utm\_source=google&utm\_medium=cpc&utm\_campaign=general&gclid=Cj0KCQjwyMiTBhDKARIsAAJ-9Vtvnn-n69O7anQrZ7cj9mRi48RztJPJBDiRN9T4hcPrn-0U2rcb6bMaAs9OEALw\_wcB](https://shop.benesse-palette.co.jp/?utm_source=google\&utm_medium=cpc\&utm_campaign=general\&gclid=Cj0KCQjwyMiTBhDKARIsAAJ-9Vtvnn-n69O7anQrZ7cj9mRi48RztJPJBDiRN9T4hcPrn-0U2rcb6bMaAs9OEALw_wcB)
-
-ベネッセ。
-
-[https://healthy-food-navi.jp](https://healthy-food-navi.jp/) 栄養指導のサイト。学会分類の解説なども上がっている。
-
-[https://www.asahi-gf.co.jp/special/senior/foods/](https://www.asahi-gf.co.jp/special/senior/foods/)
-
-アサヒの介護食
-
-[https://www.clinico.co.jp](https://www.clinico.co.jp/)
-
-森永の介護食・嚥下食のサイト用途別にまとめられている。
-
-[https://www.food-care.co.jp](https://www.food-care.co.jp/)
-
-治療用を謳うくらいなので、その手のがメインっぽい。用途に合わせて商品開発をしている。
-
-[https://www.otsukakj.jp/healthcare/medicalfoods/](https://www.otsukakj.jp/healthcare/medicalfoods/)
-
-大塚製薬のサイト。主だったものは、ゼリーと経管栄養のもの。
-
-[https://www.nisshin-oillio.com/wellness/medical/product/](https://www.nisshin-oillio.com/wellness/medical/product/)
-
-日清食品のグループ。製品のカタログもある。[https://www.nisshin-oillio.com/products/fbook/wellness/html5.html#page=1](https://www.nisshin-oillio.com/products/fbook/wellness/html5.html#page=1) 　 [https://www.medicare.maruha-nichiro.co.jp](https://www.medicare.maruha-nichiro.co.jp/)
-
-クックパッドでレシピを公開したり、在宅や病院や施設で合わせた食事を提案している。
-
-[https://www.matsutani.co.jp/product/](https://www.matsutani.co.jp/product/)
-
-デンプンづくりのメーカー。とろみ関係では情報が取れる。
-
-[https://www.sunus.co.jp](https://www.sunus.co.jp/)
-
-デンプンや水飴なんかのメーカー。
-
-[https://www.08m.co.jp/health/](https://www.08m.co.jp/health/) だしメーカー。口説くと面白いことありそう。
-
-<[https://healthcareinfo.kissei.co.jp](https://healthcareinfo.kissei.co.jp/)
-
-メーカー。色々と介護食関連専門でやっている。
-
-終末期医療関連 [https://www.asian-eolc-ethics.com](https://www.asian-eolc-ethics.com/)
-
-嚥下調整食の選び方(3)市販食品の選び方 : 食品編　栢下 淳, 山縣 誉志江 総合リハビリテーション 47 (11), 1093-1101, 2019-11
+> 注：Web資料は著者・出版年・雑誌が存在しないものが多いため、**サイト名／運営主体・種別／リンク／メモ・評価**の順で整理しています。
+
+## 学会・団体・情報サイト
+
+### Swallowing.link
+- **種別**：医療資源・サーベイランス
+- **リンク**：[Webサイト](https://www.swallowing.link/)
+
+### 日本摂食嚥下リハビリテーション学会
+- **種別**：学会
+- **リンク**：[公式サイト](https://www.jsdr.or.jp/)
+- **評価**：業界最大手。とりあえず色々と情報がある。
+
+### 関連情報サーベイサイト
+- **リンク**：[Webサイト](https://ktsm.jimdofree.com/)
+- **評価**：かなり包括的に諸々の関係がサーベイされている。
+
+### フードケア関連サイト
+- **リンク**：[Webサイト](https://fc-science.or.jp/index.html)
+- **評価**：色々と立ち上げているみたいだけどどうなるか。
+
+### chobo-care
+- **種別**：栄養士主体と思われる情報サイト
+- **リンク**：[Webサイト](https://chobo-care.com/)
+
+## 嚥下食・介護食・製品情報
+
+### えんげ食.com
+- **リンク**：[Webサイト](https://www.engesyoku.com/index.html)
+- **評価**：おそらくこの手の試みの最大手。HPのデザインもお金をかけている。場所的にも藤島Drの近くなので妥当。
+
+### ニュートリー
+- **種別**：企業／とろみ・補助栄養
+- **リンク**：[公式サイト](https://www.nutri.co.jp/index.html) ／ [栄養の基礎知識](https://www.nutri.co.jp/nutrition/keywords/index.html)
+- **評価**：企業。とろみや補助栄養がメイン。レシピが色々と上がっている。栄養についての基礎知識もある。
+
+### ALS Station
+- **リンク**：[Webサイト](https://als-station.jp/index.html)
+- **評価**：神経難病についての嚥下レシピを上げている。神経難病の嚥下動態についても動画を上げてくれている。
+
+### 大阪ガス スチコンレシピ
+- **種別**：企業／レシピ
+- **リンク**：[Webサイト](https://ene.osakagas.co.jp/product/kitchen/suchikon-recipe/)
+- **評価**：意外なところの意外なサイト。減塩食や嚥下食についてのレシピがある。
+
+### キユーピー ユニバーサルデザインフード
+- **種別**：企業／介護食
+- **リンク**：[Webサイト](https://www.kewpie.co.jp/udfood/)
+- **評価**：大手なのでサンプルは手に入れやすい。
+
+### ワタミ宅食 B2B
+- **種別**：企業／配食
+- **リンク**：[Webサイト](https://www.watami-takushoku.co.jp/contents/b2b_lp)
+- **評価**：当たり前だが、居酒屋もこういう方向は探っている。
+
+### ネスレ Isocal
+- **種別**：企業／栄養・介護食
+- **リンク**：[Webサイト](https://nestle.jp/nutrition/product/isocal/knowledge/#carefood)
+- **評価**：大手のネスレ。商品もあるが、お酒はない。
+
+### メディカルフーズ
+- **リンク**：[やわらか食](https://medifoods.jp/yawaraka/)
+- **評価**：メディカルフーズを謳うくらいなので糖尿や嚥下障害など条件に合わせたメニューが上がっている。
+
+### このいろ
+- **リンク**：[Webサイト](https://conoiro.jp/)
+- **評価**：嚥下食は扱っているが、飲み物の方は弱い。
+
+### HANZOYA
+- **種別**：レストラン
+- **リンク**：[コンセプト](https://hanzoya.co.jp/restaurant/concept/index.html) ／ [紹介記事](https://etenpo.net/3630)
+- **評価**：高級ラインではこのレストランがおそらく出色。
+
+### 長寿のMIKATA 紹介記事
+- **リンク**：[記事](https://chojumikata.com/coverstory/628/essay)
+- **評価**：介護全般を扱っているが、この人は気になる。ちなみに少なくとも美味しそうではない。
+
+### IdeaNews 紹介記事
+- **リンク**：[記事](https://ideanews.jp/archives/77187)
+- **関連リンク**：[Maison de Taka](http://maisondetaka.jp/)
+- **種別**：レストラン紹介
+
+### 蔵マルシェ
+- **種別**：通販
+- **リンク**：[Webサイト](https://kuramarche.com/)
+- **評価**：なぜかお酒は上がらない。
+
+### あおいサポート系ムース食
+- **種別**：ムース食通販
+- **リンク**：[Webサイト](https://www.aoicorp.co.jp/lp/)
+- **評価**：ムース食の通販。
+
+### えんげ食.jp
+- **リンク**：[Webサイト](https://engesyoku.jp/)
+- **要点**：歴史の説明がある。①「潤生園」の介護食、②「聖隷三方原病院」の嚥下食、③嚥下食ピラミッド、④物性規準。1994年の高齢者用食品の基準、2002年のユニバーサルデザインフード、栢下淳氏らの物性基準などの説明がある。良い増粘剤選びのポイントも扱う。
+- **評価**：概要がつかみやすい。**B**。
+
+### 訪問歯科ネット レシピ
+- **リンク**：[Webサイト](https://houmonshika.net/recipe/)
+- **評価**：訪問歯科関連からの嚥下食のレシピ。当然お酒はない。
+
+### TOSEI
+- **種別**：真空包装機器
+- **リンク**：[製品情報](https://www.tosei-corporation.co.jp/product-pack/)
+
+### 日本調理機器工業会
+- **種別**：嚥下食関連機器
+- **リンク**：[製品情報](https://www.jcka.or.jp/product/index.html)
+
+### トレハ
+- **リンク**：[FAQ](https://treha.jp/faq/#title10)
+- **評価**：トレハを使った会社。
+
+### Care Show / メディケアフーズ
+- **種別**：展示会
+- **リンク**：[Webサイト](https://www.care-show.com/medicarefoods/)
+- **評価**：嚥下食の展覧会。おそらく国内最大。
+
+### ヘルシーネットワーク
+- **種別**：嚥下食メーカー
+- **リンク**：[Webサイト](https://www.healthynetwork.co.jp/)
+
+### ベネッセパレット
+- **種別**：介護食通販
+- **リンク**：[Webサイト](https://shop.benesse-palette.co.jp/)
+
+### Healthy Food Navi
+- **種別**：栄養指導
+- **リンク**：[Webサイト](https://healthy-food-navi.jp/)
+- **評価**：学会分類の解説なども上がっている。
+
+### アサヒグループ食品
+- **種別**：介護食
+- **リンク**：[Webサイト](https://www.asahi-gf.co.jp/special/senior/foods/)
+
+### クリニコ
+- **種別**：森永系／介護食・嚥下食
+- **リンク**：[Webサイト](https://www.clinico.co.jp/)
+- **評価**：用途別にまとめられている。
+
+### フードケア
+- **種別**：治療用食品
+- **リンク**：[Webサイト](https://www.food-care.co.jp/)
+- **評価**：治療用を謳うくらいなので、その手のがメイン。用途に合わせて商品開発をしている。
+
+### 大塚製薬工場 メディカルフーズ
+- **リンク**：[Webサイト](https://www.otsukakj.jp/healthcare/medicalfoods/)
+- **評価**：主だったものはゼリーと経管栄養。
+
+### 日清オイリオ
+- **種別**：メディカル・ウェルネス食品
+- **リンク**：[製品情報](https://www.nisshin-oillio.com/wellness/medical/product/) ／ [製品カタログ](https://www.nisshin-oillio.com/products/fbook/wellness/html5.html#page=1)
+
+### マルハニチロ メディケア食品
+- **リンク**：[Webサイト](https://www.medicare.maruha-nichiro.co.jp/)
+- **評価**：クックパッドでレシピを公開したり、在宅・病院・施設に合わせた食事を提案している。
+
+### 松谷化学工業
+- **種別**：デンプン・とろみ
+- **リンク**：[製品情報](https://www.matsutani.co.jp/product/)
+- **評価**：とろみ関係では情報が取れる。
+
+### サナス
+- **種別**：デンプン・水飴
+- **リンク**：[Webサイト](https://www.sunus.co.jp/)
+
+### だしメーカー関連
+- **リンク**：[Webサイト](https://www.08m.co.jp/health/)
+- **評価**：だしメーカー。口説くと面白いことありそう。
+
+### キッセイ ヘルスケア情報
+- **種別**：介護食関連メーカー
+- **リンク**：[Webサイト](https://healthcareinfo.kissei.co.jp/)
+- **評価**：色々と介護食関連専門でやっている。
+
+## 終末期医療関連
+
+### Asian EOLC Ethics
+- **種別**：終末期医療・倫理
+- **リンク**：[Webサイト](https://www.asian-eolc-ethics.com/)
+
+## 関連文献
+
+### 嚥下調整食の選び方(3) 市販食品の選び方：食品編
+- **著者**：栢下 淳、山縣 誉志江
+- **タイトル**：嚥下調整食の選び方(3) 市販食品の選び方：食品編
+- **出版年**：2019
+- **雑誌**：総合リハビリテーション
+- **書誌情報**：47巻11号、1093–1101頁
