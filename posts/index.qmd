@@ -11,6 +11,7 @@ title : 雑記
 ## 2026年
 
 - [Schrammeの健康概念のノート](schramme-2023-health.qmd)
-
+- [Bickenbachの健康概念のノート](bickenbach-2017-health.qmd)
+- [PrinceのKissについてのノート](prince-kiss.qmd)
 
 [トップへ戻る](../site/index.qmd)
