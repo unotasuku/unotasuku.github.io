@@ -1,7 +1,16 @@
 ---
-title : 読んだ本、見た映画、ドラマのリスト
+title : 見たもの聞いたもの作ったもの
 ---
+[読んだ本のリスト](booklog.qmd)
 
+[見たドラマのリスト](drama.qmd)
 
+[見た映画のリスト](movie.qmd)
+
+[聴いた音楽のリスト](music.qmd)
+
+[料理のリスト](cooking.qmd)
+
+<br>
 
 [トップへ戻る](../site/index.qmd)

@@ -1,6 +1,8 @@
 ---
 title: "Schramme の健康概念についてのノート"
 page-layout: full
+date: "2026-09-18"
+lang: ja
 ---
 
 ***
