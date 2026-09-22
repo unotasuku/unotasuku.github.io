@@ -1,5 +1,6 @@
 ---
 title: "宇野佑のHP"
+date-format: "YYYY年M月D日"
 ---
 ***
 
