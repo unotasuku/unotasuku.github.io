@@ -3,6 +3,7 @@ title: "Bickenbach の健康概念についてのノート"
 page-layout: full
 date: "2026-09-21" 
 lang: ja
+draft: true
 ---
 
 <https://doi.org/10.1007/978-94-024-2252-8_48>
