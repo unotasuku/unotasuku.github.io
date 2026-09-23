@@ -6,9 +6,9 @@ website:
   navbar:
     left: 
       - href: site/index.qmd
-        text: "ホーム"
+        text: "home"
       - href: site/research.qmd
-        text: "研究業績"
+        text: "resarch"
 
 format:
   html:
