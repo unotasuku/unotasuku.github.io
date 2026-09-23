@@ -22,6 +22,8 @@ Resarchmapは[こちら](https://researchmap.jp/uno.tasuku)。たいていの発
 
 ***
 
+- [研究業績](research.qmd)
+
 - [日記](../diary/index.qmd)
 
 - [読んだ本や映画、音楽のリスト](../booklog/index.qmd)
