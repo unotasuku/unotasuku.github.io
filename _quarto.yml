@@ -2,6 +2,7 @@ project:
   type: website
 
 website:
+  google-analytics: "G-BTBHJJ9F71"
   navbar:
     left: 
          - href: site/index.qmd
