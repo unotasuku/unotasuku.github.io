@@ -14,7 +14,7 @@ lang: ja
 - **出版年**：2017
 - **雑誌**：日本摂食嚥下リハビリテーション学会雑誌
 - **書誌情報**：21巻3号、129–135頁
-- **リンク**：[DOI](https://doi.org/10.32136/jsdr.21.3_129) ／ [J-STAGE](https://www.jstage.jst.go.jp/article/jsdr/21/3/21_3_129/_article/-char/ja)
+- **リンク**：[DOI](https://doi.org/10.32136/jsdr.21.3_129) ／ [J-STAGE](https://www.jstage.jst.go.jp/article/jsdr/21/3/21_129/_article/-char/ja)
 
 #### 要旨
 
