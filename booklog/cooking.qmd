@@ -1,5 +1,8 @@
 ---
 title : 作った料理
+date: today
+date-format: "YYYY年M月D日"
+published-title: "最終更新日"
 ---
 
 特に何か特別なレシピや作り方を丁寧に書いているわけではない。
