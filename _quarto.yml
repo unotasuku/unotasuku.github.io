@@ -4,6 +4,7 @@ project:
 website:
   google-analytics: "G-BTBHJJ9F71"
   navbar:
+    collapse: false
     left: 
       - href: site/index.qmd
         text: "home"
