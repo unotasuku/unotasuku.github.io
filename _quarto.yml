@@ -5,8 +5,10 @@ website:
   google-analytics: "G-BTBHJJ9F71"
   navbar:
     left: 
-         - href: site/index.qmd
-           text: "ホーム"
+      - href: site/index.qmd
+        text: "ホーム"
+      - href: site/research.qmd
+        text: "研究業績"
 
 format:
   html:
