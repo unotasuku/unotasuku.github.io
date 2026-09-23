@@ -14,7 +14,7 @@ lang: ja
 - **出版年**：2017
 - **雑誌**：日本摂食嚥下リハビリテーション学会雑誌
 - **書誌情報**：21巻3号、129–135頁
-- **リンク**：[DOI](https://doi.org/10.32136/jsdr.21.3_129) ／ [J-STAGE](https://www.jstage.jst.go.jp/article/jsdr/21/3/21_129/_article/-char/ja)
+- **リンク**：[DOI](https://doi.org/10.32136/jsdr.21.3_129) ／ [J-STAGE](https://www.jstage.jst.go.jp/article/jsdr/21/3/21_3_129/_article/-char/ja)
 
 #### 要旨
 
@@ -154,24 +154,8 @@ lang: ja
 - **書誌情報**：17、199–209頁
 - **リンク**：[機関リポジトリ](https://niu.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=1144&item_no=1&page_id=13&block_id=17)
 
----
-
-### 適切な嚥下調整食作成のための新技術
-
-- **著者**：宮城 翠、海老原 覚
-- **タイトル**：適切な嚥下調整食作成のための新技術
-- **出版年**：2021
-- **雑誌**：The Japanese Journal of Rehabilitation Medicine
-- **書誌情報**：58巻1号、48–52頁
-- **リンク**：[DOI](https://doi.org/10.2490/jjrmc.58.48) ／ [J-STAGE](https://www.jstage.jst.go.jp/article/jjrmc/58/1/58_58.48/_article/-char/ja)
-
-#### 要旨
-
-回転式粘度計より簡便なとろみ測定機器トロマドラー®を開発し、食品試料で回転式粘度計との比較を行ったところ有意な相関が得られた。臨床・介護現場での簡易定量評価や教育ツールとしての活用可能性が示された。
-
 ## その他の関連文献
 
-- **吉永 奈津希、馬場 智子、古賀 貴子（2017）**「病院における摂食・嚥下機能に対応した食事のテクスチャー」『長崎国際大学論叢』199–209頁。
 - **菊田 千景、高橋 真由、赤尾 正（2021）**「摂食・嚥下機能障害者のためのゼリー食レシピの検討」『研究紀要』11、173–180頁。
 
 ## 追加文献（2026年9月23日）
