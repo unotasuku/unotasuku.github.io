@@ -1,314 +1,400 @@
 ---
-title: "調理法・加工技術・レシピ開発"
+title: "調理法・レシピ・加工技術"
 lang: ja
+toc: true
 ---
 
-エスプーマ、ソフト食、ムース、ゲル、加圧処理、3Dプリンタ、調理工程など。
 
-## 文献
 
-### 高アミロース米の米粉から調製したゲルの物性
+**最終更新日：2026年9月24日**
 
-- **著者**：芦田（吉田）かなえ、幸谷 かおり、梅本 貴之
-- **タイトル**：高アミロース米の米粉から調製したゲルの物性
-- **出版年**：2019
-- **雑誌**：日本食品科学工学会誌
-- **書誌情報**：66巻8号、290–298頁
-- **リンク**：[DOI](https://doi.org/10.3136/nskkk.66.290) ／ [J-STAGE](https://www.jstage.jst.go.jp/article/nskkk/66/8/66_290/_article/-char/ja)
+**26件／国内由来 7件。** 飲料の抽出・乳化・脱アルコールと、嚥下調整食の工程設計を接続する。料理レシピ集ではなく、配合と工程を決めるための研究集。
+
+「国内」は日本語論文だけでなく、日本の研究機関・研究班による英文論文を含む。国際共同研究では主たる研究班によって分類した。
+
+## 収録一覧
+
+|番号|地域|年|資料・論文|種別|
+|---|---|---|---|---|
+|01|海外・国際|2018|[Beverage dealcoholization processes: Past, present, and future](#ref-01)|必読・総説|
+|02|海外・国際|2017|[Physical Methods for Dealcoholization of Beverage Matrices and their Impact on Quality Attributes](#ref-02)|総説|
+|03|海外・国際|2024|[Dealcoholized Wine: A Scoping Review of Volatile and Non-Volatile Profiles, Consumer Perception, and Health Benefits](#ref-03)|必読・近年・スコーピングレビュー|
+|04|海外・国際|2025|[Dealcoholized wine: Techniques, sensory impacts, stability, and perspectives of a growing industry](#ref-04)|先端・総説|
+|05|海外・国際|2023|[Alcohol‐free and low‐alcohol beers: Aroma chemistry and sensory characteristics](#ref-05)|近年・総説|
+|06|海外・国際|2014|[Beverage emulsions: Recent developments in formulation, production, and applications](#ref-06)|必読・総説|
+|07|海外・国際|2018|[Flavor Retention and Release from Beverages: A Kinetic and Thermodynamic Perspective](#ref-07)|必読・総説|
+|08|海外・国際|2021|[A review on packed non-alcoholic beverages: Ingredients, production, trends and future opportunities for functional product development](#ref-08)|総説|
+|09|海外・国際|2017|[The Effect of Time, Roasting Temperature, and Grind Size on Caffeine and Chlorogenic Acid Concentrations in Cold Brew Coffee](#ref-09)|基礎・加工実験|
+|10|海外・国際|2025|[Progress in three-dimensional (3D) printed foods for dysphagia patients: Food sources, processing techniques, printability, nutrition, acceptability, and safety aspects](#ref-10)|先端・総説|
+|11|海外・国際|2024|[Emulsion gel-based inks for 3D printing of foods for dysphagia patients: High internal type emulsion gel-biopolymer systems](#ref-11)|近年・材料実験|
+|12|海外・国際|2017|[Pairing flavours and the temporal order of tasting](#ref-12)|必読・総説|
+|13|海外・国際|2008|[Molecular gastronomy: a food fad or science supporting innovative cuisine?](#ref-13)|基礎・総説／論考|
+|14|海外・国際|2010|[Hydrocolloids as thickening and gelling agents in food: a critical review](#ref-14)|必読・総説|
+|15|海外・国際|2010|[Molecular Gastronomy: A New Emerging Scientific Discipline](#ref-15)|総説|
+|16|海外・国際|2012|[Nanoemulsions versus microemulsions: terminology, differences, and similarities](#ref-16)|総説|
+|17|海外・国際|2017|[Ultrasound assisted extraction of food and natural products. Mechanisms, techniques, combinations, protocols and applications. A review](#ref-17)|総説|
+|18|海外・国際|2012|[Ultrasonics in food processing](#ref-18)|総説|
+|19|海外・国際|2003|[Hydrocolloids at interfaces and the influence on the properties of dispersed systems](#ref-19)|総説|
+|20|国内|2005|[異なるゲル化剤を用いた3種のお茶ゼリーの飲み込み特性―若年者と高齢者の比較―](#ref-20)|必読・国内研究|
+|21|国内|2008|[非温度依存性即席ゲル化剤の開発とそのテクスチャー特性](#ref-21)|国内・技術開発|
+|22|国内|2010|[とろろを用いたゲル–ゾル混合系食物の物性，食べやすさ，および咽頭相における嚥下動態](#ref-22)|原著|
+|23|国内|2015|[とろみを付加したゲル状パン粥の物理的特性と食べやすさの検討](#ref-23)|原著|
+|24|国内|2024|[異なるゲル化剤を用いた重湯ゲルの嚥下時筋活動および官能評価を用いた食べやすさの評価](#ref-24)|原著・近年|
+|25|国内|2001|[茶主要成分の茶浸出液への溶出特性](#ref-25)|原著|
+|26|国内|1998|[緑茶の硬水浸出液に生じる白色沈殿](#ref-26)|原著|
 
-#### 要旨
+<a id="ref-01"></a>
+## 01. Beverage dealcoholization processes: Past, present, and future
 
-高アミロース米粉に10～15倍量の水を加えて加熱攪拌し、嚥下困難者用食品の基準に相当するゲルを調製した。10倍加水ゲルはより飲み込みやすい物性を示し、3日間冷蔵保存しても物性変化や離水が少なかった。
+**Mangindaan Dave; Khoiruddin K.; Wenten I.G.（2018）**。Trends in Food Science &amp; Technology 71, 36-45。
 
----
+[原掲載先・公式資料](https://www.sciencedirect.com/science/article/pii/S0924224417303813)
 
-### 別府温泉の炭酸水素塩泉を用いた介護食「温泉介護食」の開発とレシピの物性評価
+- **区分：** 海外・国際／必読・総説
+- **選定理由：** Wentenらの膜分離・飲料加工研究に基づく脱アルコール総説。
+- **内容：** 飲料の脱アルコールに用いる工程と、その発展・課題を俯瞰する。
+- **モクテルへの応用：** 蒸留・膜分離などの工程が、ノンアルコール素材の風味にどう関わるかを理解する入口。
+- **限界・注意：** 工業プロセスの総説であり、家庭調理の操作条件や残留アルコールを保証しない。
+- **引用の参考値：** Crossref被引用件数 107件（調査時点の登録値。網羅的件数・質の評価ではない）。
 
-- **著者**：海陸 留美、東保 美香、小野 章史
-- **タイトル**：別府温泉の炭酸水素塩泉を用いた介護食「温泉介護食」の開発とレシピの物性評価
-- **出版年**：2019
-- **雑誌**：別府大学短期大学部紀要
-- **書誌情報**：38、1–8頁
+<a id="ref-02"></a>
+## 02. Physical Methods for Dealcoholization of Beverage Matrices and their Impact on Quality Attributes
 
-#### 要旨
+**Müller Magdalena; Bellut Konstantin; Tippmann Johannes; Becker Thomas（2017）**。ChemBioEng Reviews 4, (5), 310-326。
 
-炭酸水素塩泉の煮熟軟化効果を利用して介護食24品を開発し、硬さ・付着性・凝集性を測定した。初回評価では約6割が基準外だったが、切り方や下ゆで時間、加熱時間を調整することで物性を改善できた。
+[原掲載先・公式資料](https://doi.org/10.1002/cben.201700010)
 
----
+- **区分：** 海外・国際／総説
+- **選定理由：** Becker・Tippmannらの醸造・飲料工程研究。
+- **内容：** 物理的な脱アルコール方法と飲料品質への影響を整理する。
+- **モクテルへの応用：** 原料の香り・味を残す工程選択を考えるため、C01と併読したい。
+- **限界・注意：** 飲料の種類や設備で結果が変わり、単純な優劣表にはできない。
+- **引用の参考値：** Crossref被引用件数 41件（調査時点の登録値。網羅的件数・質の評価ではない）。
 
-### 重症心身障害児・者施設独自の嚥下調整食“押しつぶし食”の適性評価
+<a id="ref-03"></a>
+## 03. Dealcoholized Wine: A Scoping Review of Volatile and Non-Volatile Profiles, Consumer Perception, and Health Benefits
 
-- **著者**：菊田 千景、八木 万希子、里中 千恵
-- **タイトル**：重症心身障害児・者施設独自の嚥下調整食“押しつぶし食”の適性評価
-- **出版年**：2019
-- **雑誌**：日本栄養士会雑誌
-- **書誌情報**：62巻5号、255–263頁
-- **リンク**：[DOI](https://doi.org/10.11379/jjda.62.255) ／ [J-STAGE](https://www.jstage.jst.go.jp/article/jjda/62/5/62_255/_article/-char/ja)
+**Kumar Yogesh; Ricci Arianna; Parpinello Giuseppina Paola; Versari Andrea（2024）**。Food and Bioprocess Technology 17, (11), 3525-3545。
 
-#### 要旨
+[原掲載先・公式資料](https://doi.org/10.1007/s11947-024-03336-w)
 
-常食に近い見た目で提供し、食べる直前にスプーンやフォークの背で押しつぶす「押しつぶし食」について、7食材の物性を測定した。押しつぶし後はいずれも摂食・嚥下障害者に適する形態となり、食材別の有用性が示された。
+- **区分：** 海外・国際／必読・近年・スコーピングレビュー
+- **選定理由：** Versari・Parpinelloらのワイン化学研究系列。
+- **内容：** 脱アルコールワインの揮発・不揮発成分、消費者知覚、健康関連研究を整理する。
+- **モクテルへの応用：** 加工条件と「飲みたいか」をつなぎ、評価項目を設計するための近年の俯瞰。
+- **限界・注意：** 健康関連の記述はモクテルの臨床効果を示すものではない。
+- **引用の参考値：** Crossref被引用件数 49件（調査時点の登録値。網羅的件数・質の評価ではない）。
 
----
+<a id="ref-04"></a>
+## 04. Dealcoholized wine: Techniques, sensory impacts, stability, and perspectives of a growing industry
 
-### エスプーマ調理法による米ゲルを用いた泡米粥の調理特性
+**Akhtar Wasim; Ceci Adriana Teresa; Longo Edoardo; Marconi Marco Adolfo; Lonardi Francesco; Boselli Emanuele（2025）**。Comprehensive Reviews in Food Science and Food Safety 24, (3), e70171。
 
-- **著者**：駒込 乃莉子、山本 菜美、和田 涼子、加藤 和子、峯木 眞知子
-- **タイトル**：エスプーマ調理法による米ゲルを用いた泡米粥の調理特性
-- **出版年**：2019
-- **雑誌**：日本調理科学会大会研究発表要旨集
-- **書誌情報**：31巻、セッションID 1P-3、73頁
-- **リンク**：[DOI](https://doi.org/10.11402/ajscs.31.0_73) ／ [J-STAGE](https://www.jstage.jst.go.jp/article/ajscs/31/0/31_73/_article/-char/ja)
+[原掲載先・公式資料](https://doi.org/10.1111/1541-4337.70171)
 
-#### 要旨
+- **区分：** 海外・国際／先端・総説
+- **選定理由：** Boselliらの飲料化学研究を背景とする近年総説。
+- **内容：** 加工技術、官能への影響、製品安定性、産業上の課題をまとめる。
+- **モクテルへの応用：** おいしさだけでなく保存・品質の再現性も含む開発課題の確認に使う。
+- **限界・注意：** 低アルコール化とアルコール完全不含は同義ではなく、製品仕様の確認が別途必要。
+- **引用の参考値：** Crossref被引用件数 31件（調査時点の登録値。網羅的件数・質の評価ではない）。
 
-米ゲルとメレンゲ調製粉末を用いた泡米粥をエスプーマで作製し、離水、比重、テクスチャーを測定した。60分後まで離水せず、嚥下困難者用食品許可基準Ⅲ、学会分類2013コード2-2または3相当の物性を示した。
+<a id="ref-05"></a>
+## 05. Alcohol‐free and low‐alcohol beers: Aroma chemistry and sensory characteristics
 
----
+**Piornos José A.; Koussissi Elisabeth; Balagiannis Dimitrios P.; Brouwer Eric; Parker Jane K.（2023）**。Comprehensive Reviews in Food Science and Food Safety 22, (1), 233-259。
 
-### 気泡混合ゲルの物理的特性と嚥下特性
+[原掲載先・公式資料](https://doi.org/10.1111/1541-4337.13068)
 
-- **著者**：高橋 智子、中川 裕子、大越 ひろ
-- **タイトル**：気泡混合ゲルの物理的特性と嚥下特性
-- **出版年**：2019
-- **雑誌**：日本調理科学会大会研究発表要旨集
-- **書誌情報**：31巻、セッションID 2D-5、64頁
-- **リンク**：[DOI](https://doi.org/10.11402/ajscs.31.0_64) ／ [J-STAGE](https://www.jstage.jst.go.jp/article/ajscs/31/0/31_64/_article/-char/ja)
+- **区分：** 海外・国際／近年・総説
+- **選定理由：** Parker・Balagiannisらの香気化学研究系列。
+- **内容：** ノン／低アルコールビールの香気化学と官能特性を整理する。
+- **モクテルへの応用：** 麦芽、ホップ、苦味を用いたモクテル設計の背景資料となる。
+- **限界・注意：** ビール製造の研究を、一般の混合飲料や嚥下調整飲料の安全性へ外挿しない。
+- **引用の参考値：** Crossref被引用件数 62件（調査時点の登録値。網羅的件数・質の評価ではない）。
 
-#### 要旨
+<a id="ref-06"></a>
+## 06. Beverage emulsions: Recent developments in formulation, production, and applications
 
-ジェランガムゲルに気泡を混合し、密度・弾性率・広がり係数・嚥下筋電位を比較した。気泡混合ゲルでは初期弾性率が低下し、食塊形成時間も短縮したことから、嚥下食への応用可能性が示された。
+**Piorkowski Daniel T.; McClements David Julian（2014）**。Food Hydrocolloids 42, 5-41。
 
----
+[原掲載先・公式資料](https://www.sciencedirect.com/science/article/pii/S0268005X13002117)
 
-### 健康志向を反映した油を添加した嚥下食の評価
+- **区分：** 海外・国際／必読・総説
+- **選定理由：** McClementsを共著者とする飲料乳化の基盤総説。筆頭著者はPiorkowski。
+- **内容：** 飲料エマルションの組成、製造、応用と安定化に関する知見を整理する。
+- **モクテルへの応用：** 柑橘油、乳・植物性素材を含む飲料の分離や濁りを考える基礎。
+- **限界・注意：** 安定な乳化液であることと、嚥下に適した物性であることは別に評価する。
+- **引用の参考値：** Crossref被引用件数 352件（調査時点の登録値。網羅的件数・質の評価ではない）。
 
-- **著者**：佐藤 真実
-- **タイトル**：健康志向を反映した油を添加した嚥下食の評価
-- **出版年**：2018
-- **雑誌**：日本調理科学会大会研究発表要旨集
-- **書誌情報**：30巻、セッションID 2D-6、62頁
-- **リンク**：[DOI](https://doi.org/10.11402/ajscs.30.0_62) ／ [J-STAGE](https://www.jstage.jst.go.jp/article/ajscs/30/0/30_62/_article/-char/ja)
+<a id="ref-07"></a>
+## 07. Flavor Retention and Release from Beverages: A Kinetic and Thermodynamic Perspective
 
-#### 要旨
+**Ammari Ali; Schroen Karin（2018）**。Journal of
+Agricultural and Food Chemistry 66, (38), 9869-9881。
 
-エゴマ油・亜麻仁油をマッシュポテトや鶏ペーストへ添加し、物性・官能評価・栄養価を比較した。10%添加で味やまとまりやすさが良好となり、嚥下困難者用食品基準Ⅱに分類され、エネルギーやα-リノレン酸の増加も得られた。
+[原掲載先・公式資料](https://doi.org/10.1021/acs.jafc.8b04459)
 
----
+- **区分：** 海外・国際／必読・総説
+- **選定理由：** Schroenらの食品加工・物質移動研究に基づく香気放出の総説。
+- **内容：** 飲料からのフレーバー放出を、平衡と速度の観点から整理する。
+- **モクテルへの応用：** 粘度・脂質・温度などを変えた時に、香りの感じ方も検証する理由になる。
+- **限界・注意：** 化学的な放出量だけで嗜好や満足感は決まらない。
+- **引用の参考値：** Crossref被引用件数 119件（調査時点の登録値。網羅的件数・質の評価ではない）。
 
-### 緩和ケア病棟におけるソフト食の食味改良と高エネルギー化
+<a id="ref-08"></a>
+## 08. A review on packed non-alcoholic beverages: Ingredients, production, trends and future opportunities for functional product development
 
-- **著者**：楠瀬 千春
-- **タイトル**：緩和ケア病棟におけるソフト食の食味改良と高エネルギー化
-- **出版年**：2016
-- **雑誌**：日本調理科学会大会研究発表要旨集
-- **書誌情報**：28巻、セッションID 1C-a4、12頁
-- **リンク**：[DOI](https://doi.org/10.11402/ajscs.28.0_12) ／ [J-STAGE](https://www.jstage.jst.go.jp/article/ajscs/28/0/28_12/_article/-char/ja)
+**Tireki S（2021）**。Trends in Food Science &amp; Technology 112, 442-454。
 
-#### 要旨
+[原掲載先・公式資料](https://www.sciencedirect.com/science/article/pii/S0924224421002508)
 
-牛肉ソフト食について部位、副材料、MCT添加量を調整し、食味と高エネルギー化を検討した。牛ウデ肉と長芋、MCTを組み合わせることでテクスチャー改善と高エネルギー化を両立し、医療スタッフ・患者から概ね高評価を得た。
+- **区分：** 海外・国際／総説
+- **選定理由：** 非アルコール飲料開発全体を整理し後続研究から引用される総説。
+- **内容：** 包装された非アルコール飲料の原料、製造、開発の方向を概観する。
+- **モクテルへの応用：** 果汁、茶、機能性素材を横断して候補原料を探す入口になる。
+- **限界・注意：** 機能性素材の添加をそのまま健康利益と解釈せず、個別の根拠を確認する。
+- **引用の参考値：** Crossref被引用件数 79件（調査時点の登録値。網羅的件数・質の評価ではない）。
 
----
+<a id="ref-09"></a>
+## 09. The Effect of Time, Roasting Temperature, and Grind Size on Caffeine and Chlorogenic Acid Concentrations in Cold Brew Coffee
 
-### 魚肉すり身のゲル形成性と嚥下調整食への利用
+**Fuller Megan; Rao Niny Z.（2017）**。Scientific Reports 7, (1), 17979。
 
-- **著者**：吉岡 慶子、山本 亜衣、木村 淳子、松嶋 康之、蜂須賀 研二、池内 義秀
-- **タイトル**：魚肉すり身のゲル形成性と嚥下調整食への利用
-- **出版年**：2014
-- **雑誌**：日本調理科学会大会研究発表要旨集
-- **書誌情報**：26巻、セッションID 2P-43、185頁
-- **リンク**：[DOI](https://doi.org/10.11402/ajscs.26.0_185) ／ [J-STAGE](https://www.jstage.jst.go.jp/article/ajscs/26/0/26_185/_article/-char/ja)
+[原掲載先・公式資料](https://doi.org/10.1038/s41598-017-18247-4)
 
-#### 要旨
+- **区分：** 海外・国際／基礎・加工実験
+- **選定理由：** 水出しコーヒーの抽出条件比較として引用蓄積のある基礎研究。
+- **内容：** 抽出時間、焙煎温度、粒度と、水出しコーヒー中の成分濃度の関係を調べる。
+- **モクテルへの応用：** 「水出し」という呼称だけで同じ飲料とみなさず、工程条件を記録するための参考。
+- **限界・注意：** 対象成分の結果から、総合的なおいしさや健康影響までは結論できない。
+- **引用の参考値：** Crossref被引用件数 152件（調査時点の登録値。網羅的件数・質の評価ではない）。
 
-アジすり身を加熱または高圧処理してゲル化し、物性・官能評価・VFを比較した。加熱ゲルは軟らかく咀嚼困難者向き、加圧ゲルは弾力となめらかさを持ち、嚥下困難者への適用可能性が示された。
+<a id="ref-10"></a>
+## 10. Progress in three-dimensional (3D) printed foods for dysphagia patients: Food sources, processing techniques, printability, nutrition, acceptability, and safety aspects
 
----
+**Molimi Mpho Brian; Egan Paul; Adebo Oluwafemi Ayodeji（2025）**。Food Research International 202, 115629。
 
-### 「えん下困難者用食品」許可基準3に該当する食事の調製
+[原掲載先・公式資料](https://doi.org/10.1016/j.foodres.2024.115629)
 
-- **著者**：四宮 陽子、夛名賀 友子
-- **タイトル**：「えん下困難者用食品」許可基準3に該当する食事の調製
-- **出版年**：2013
-- **雑誌**：日本調理科学会大会研究発表要旨集
-- **書誌情報**：25巻、セッションID 2P-41、189頁
-- **リンク**：[DOI](https://doi.org/10.11402/ajscs.25.0.189.0) ／ [J-STAGE](https://www.jstage.jst.go.jp/article/ajscs/25/0/25_189/_article/-char/ja)
+- **区分：** 海外・国際／先端・総説
+- **選定理由：** Adebo・Eganらの食品加工・3D造形研究系列を整理。
+- **内容：** 嚥下障害向けの3D食品について、原料から加工・栄養・受容性まで整理する。
+- **モクテルへの応用：** 物性や形だけで開発を終えず、受容性も評価する計画づくりに使える。
+- **限界・注意：** 技術的な造形成功と臨床的な嚥下安全性・栄養改善は別の評価。
+- **引用の参考値：** Crossref被引用件数 40件（調査時点の登録値。網羅的件数・質の評価ではない）。
 
-#### 要旨
+<a id="ref-11"></a>
+## 11. Emulsion gel-based inks for 3D printing of foods for dysphagia patients: High internal type emulsion gel-biopolymer systems
 
-公開レシピやフレンチレストランの流動食フルコースを参考に、鮭ムースやパンムース等を調製し、許可基準3、嚥下食ピラミッド、UDF区分と比較した。色・香り・旨味・なめらかさへの配慮を含む調理上の工夫が整理されている。
+**Wang Yifan; Aluko Rotimi Emmanuel; Julian McClements David; Yu Yue; Xu Xingfeng; Sun Qingjie; Wang Qiang; Jiao Bo; Dai Lei（2024）**。Food Hydrocolloids 156, 110340。
 
----
+[原掲載先・公式資料](https://doi.org/10.1016/j.foodhyd.2024.110340)
 
-### 加圧処理黒大豆煮汁添加ゲルのテクスチャー特性および官能評価と嚥下食としての利用性
+- **区分：** 海外・国際／近年・材料実験
+- **選定理由：** McClements・Alukoらを含む乳化ゲルの加工研究。
+- **内容：** 高内相比の乳化ゲルと生体高分子を用いた食品造形材料を研究する。
+- **モクテルへの応用：** 脂質を含むゲルの構造と造形性の関係を学び、材料候補を検討する。
+- **限界・注意：** 材料・造形の研究であり、個々の嚥下障害者への提供適合性は別途検証が必要。
+- **引用の参考値：** Crossref被引用件数 64件（調査時点の登録値。網羅的件数・質の評価ではない）。
 
-- **著者**：時藤 亜衣、吉岡 慶子
-- **タイトル**：加圧処理黒大豆煮汁添加ゲルのテクスチャー特性および官能評価と嚥下食としての利用性
-- **出版年**：2012
-- **雑誌**：日本調理科学会大会研究発表要旨集
-- **書誌情報**：24巻、セッションID 2P-1、129頁
-- **リンク**：[DOI](https://doi.org/10.11402/ajscs.24.0.129.0) ／ [J-STAGE](https://www.jstage.jst.go.jp/article/ajscs/24/0/24_129/_article/-char/ja)
+<a id="ref-12"></a>
+## 12. Pairing flavours and the temporal order of tasting
 
-#### 要旨
+**Spence Charles; Wang Qian Janice; Youssef Jozef（2017）**。Flavour 6, (1), 4。
 
-黒大豆煮汁と分離大豆タンパク質を用い、高圧処理ゲルと加熱ゲルを比較した。高圧処理ゲルはより軟らかく、なめらかで飲み込みやすく、食味も良好で、嚥下食素材として幅広い展開可能性が示された。
+[原掲載先・公式資料](https://doi.org/10.1186/s13411-017-0053-0)
 
----
+- **区分：** 海外・国際／必読・総説
+- **選定理由：** Spenceらの多感覚・香味組合せ研究系列。
+- **内容：** 風味の組合せと、味わう順序が体験に関わることを論じる。
+- **モクテルへの応用：** モクテル単体だけでなく、食事との組合せや提供順序を設計する理論的な入口。
+- **限界・注意：** 共通の香気分子があれば必ずおいしくなる、という単純な規則は導けない。
+- **引用の参考値：** Crossref被引用件数 46件（調査時点の登録値。網羅的件数・質の評価ではない）。
 
-### 米飯、粥、重湯・重湯ゼリーの物性および食味評価と各嚥下食レベルへの展開
+<a id="ref-13"></a>
+## 13. Molecular gastronomy: a food fad or science supporting innovative cuisine?
 
-- **著者**：高山 さくら、時藤 亜衣、吉岡 慶子
-- **タイトル**：米飯、粥、重湯・重湯ゼリーの物性および食味評価と各嚥下食レベルへの展開
-- **出版年**：2008
-- **雑誌**：日本調理科学会大会研究発表要旨集
-- **書誌情報**：20巻、セッションID 1B-8、16頁
-- **リンク**：[DOI](https://doi.org/10.11402/ajscs.20.0.16.0) ／ [J-STAGE](https://www.jstage.jst.go.jp/article/ajscs/20/0/20_0_16/_article/-char/ja)
+**Vega César; Ubbink Job（2008）**。Trends in Food Science &amp; Technology 19, (7), 372-382。
 
-#### 要旨
+[原掲載先・公式資料](https://doi.org/10.1016/j.tifs.2008.01.006)
 
-米飯、軟飯、全粥、五分粥、重湯、重湯ゼリーの物性と官能評価を比較し、嚥下食レベルに分類した。加水量やゼリー化によって主食形態の幅を広げられることが示された。
+- **区分：** 海外・国際／基礎・総説／論考
+- **選定理由：** Vega・Ubbinkらの調理科学と食品科学を接続する総説。
+- **内容：** 分子ガストロノミーと食品科学・料理の関係を整理する。
+- **モクテルへの応用：** 泡、ゲル、乳化などを演出だけでなく、測定・再現できる操作として扱う基礎。
+- **限界・注意：** 嚥下調整に使う際は、料理としての新規性と臨床的な適合性を分けて評価する。
+- **引用の参考値：** Crossref被引用件数 83件（調査時点の登録値。網羅的件数・質の評価ではない）。
 
----
+<a id="ref-14"></a>
+## 14. Hydrocolloids as thickening and gelling agents in food: a critical review
 
-### 嚥下食のための簡便なとろみ液調製法の考案
+**Saha Dipjyoti; Bhattacharya Suvendu（2010）**。Journal of Food Science and Technology 47, (6), 587-597。
 
-- **著者**：楠瀬 千春、永久 美菜子
-- **タイトル**：嚥下食のための簡便なとろみ液調製法の考案
-- **出版年**：2008
-- **雑誌**：日本調理科学会大会研究発表要旨集
-- **書誌情報**：20巻、セッションID 1C-4、20頁
-- **リンク**：[DOI](https://doi.org/10.11402/ajscs.20.0.20.0) ／ [J-STAGE](https://www.jstage.jst.go.jp/article/ajscs/20/0/20_0_20/_article/-char/ja)
+[原掲載先・公式資料](https://doi.org/10.1007/s13197-010-0162-6)
 
-#### 要旨
+- **区分：** 海外・国際／必読・総説
+- **選定理由：** 増粘・ゲル化材料の基本特性を整理した引用蓄積のある総説。
+- **内容：** 食品用ハイドロコロイドの増粘・ゲル化機能と利用を整理する。
+- **モクテルへの応用：** 濃度、温度、pH、イオンなどを配合検討の変数として整理するための基礎文献。
+- **限界・注意：** 食品一般の総説であり、特定濃度を嚥下調整飲料の推奨配合として転用しない。
+- **引用の参考値：** Crossref被引用件数 1148件（調査時点の登録値。網羅的件数・質の評価ではない）。
 
-馬鈴薯澱粉を用い、電子レンジや電気ポットで家庭でも調製しやすい一人分のとろみ液の作り方を検討した。水溶き澱粉の使用や浸漬時間によって均一性・経時安定性が改善した。
+<a id="ref-15"></a>
+## 15. Molecular Gastronomy: A New Emerging Scientific Discipline
 
----
+**Barham P・Skibsted LH・Bredie WLP・Frøst MBほか（2010）**。Chemical Reviews 。
 
-### 咀嚼・嚥下困難者のための野菜料理におけるテクスチャー特性と嚥下食献立への展開
+[原掲載先・公式資料](https://doi.org/10.1021/cr900105w)
 
-- **著者**：冷 紅、田島 朋代、緒方 友美、小島 朝子、時藤 亜衣、吉岡 慶子
-- **タイトル**：咀嚼・嚥下困難者のための野菜料理におけるテクスチャー特性と嚥下食献立への展開
-- **出版年**：2009
-- **雑誌**：日本調理科学会大会研究発表要旨集
-- **書誌情報**：21巻、セッションID 1P-64、2123頁
-- **リンク**：[DOI](https://doi.org/10.11402/ajscs.21.0.2123.0) ／ [J-STAGE](https://www.jstage.jst.go.jp/article/ajscs/21/0/21_0_2123/_article/-char/ja)
+- **区分：** 海外・国際／総説
+- **選定理由：** Barham・Bredie・Frøstら調理科学・官能評価研究者による体系的総説。
+- **内容：** 調理・食感・味香りを分子・物理化学から体系化。
+- **モクテルへの応用：** 製法の変更を科学的仮説につなげる最初の総説。
+- **限界・注意：** 臨床的な嚥下安全性の指針ではない。
 
-#### 要旨
+<a id="ref-16"></a>
+## 16. Nanoemulsions versus microemulsions: terminology, differences, and similarities
 
-野菜料理の粘度・テクスチャーを測定し、嚥下食レベル別の調理法を検討した。ミキサー、ゼリー化、寄せ物などを使うことで、同じ食材でも幅広い嚥下食レベルに対応可能とされた。
+**McClements DJ（2012）**。Soft Matter 8, (6), 1719-1729。
 
----
+[原掲載先・公式資料](https://doi.org/10.1039/C2SM06903B)
 
-### 高齢者向けムース開発とクリープ解析試験による物性評価
+- **区分：** 海外・国際／総説
+- **選定理由：** McClementsの食品コロイド研究系列。
+- **内容：** ナノ乳化とマイクロ乳化の熱力学的違いを整理。
+- **モクテルへの応用：** 香料油を分散させる飲料の安定性を理解。
+- **限界・注意：** 食品に使用できる素材や濃度は別途選定する。
+- **引用の参考値：** Crossref被引用件数 1600件（調査時点の登録値。網羅的件数・質の評価ではない）。
 
-- **著者**：武山 進一、遠山 良
-- **タイトル**：高齢者向けムース開発とクリープ解析試験による物性評価
-- **出版年**：2009
-- **雑誌**：日本調理科学会大会研究発表要旨集
-- **書誌情報**：21巻、セッションID 2B-a3、1045頁
-- **リンク**：[DOI](https://doi.org/10.11402/ajscs.21.0.1045.0) ／ [J-STAGE](https://www.jstage.jst.go.jp/article/ajscs/21/0/21_0_1045/_article/-char/ja)
+<a id="ref-17"></a>
+## 17. Ultrasound assisted extraction of food and natural products. Mechanisms, techniques, combinations, protocols and applications. A review
 
-#### 要旨
+**Chemat Farid; Rombaut Natacha; Sicaire Anne-Gaëlle; Meullemiestre Alice; Fabiano-Tixier Anne-Sylvie; Abert-Vian Maryline（2017）**。Ultrasonics Sonochemistry 34, 540-560。
 
-鮭ムースについて鮭、増粘剤、卵白粉、油の配合を変え、かたさ・弾性率・粘性率を比較した。最終的に嚥下食ピラミッドLevel 3相当の物性に調整した。
+[原掲載先・公式資料](https://pubmed.ncbi.nlm.nih.gov/27773280/)
 
----
+- **区分：** 海外・国際／総説
+- **選定理由：** Chematらの抽出技術研究の代表的総説。
+- **内容：** 超音波抽出の原理・装置・条件を整理。
+- **モクテルへの応用：** 香味素材の抽出効率と品質を検討。
+- **限界・注意：** 工業・実験工程とバーの工程は区別する。
+- **引用の参考値：** Crossref被引用件数 3023件（調査時点の登録値。網羅的件数・質の評価ではない）。
 
-### 嚥下訓練食・ミキサー食の検討
+<a id="ref-18"></a>
+## 18. Ultrasonics in food processing
 
-- **著者**：齋藤 晴子、野崎 靖代、泉 ひかる、田上 操緒、津守 陽子
-- **タイトル**：嚥下訓練食・ミキサー食の検討
-- **出版年**：2006
-- **雑誌**：昭和病院雑誌
-- **書誌情報**：3巻1号、37–40頁
-- **リンク**：[DOI](https://doi.org/10.11163/akanekai.3.37) ／ [J-STAGE](https://www.jstage.jst.go.jp/article/akanekai/3/1/3_1_37/_article/-char/ja)
+**Chandrapala J・Oliver C・Kentish S・Ashokkumar M（2012）**。Ultrasonics Sonochemistry 。
 
-#### 要旨
+[原掲載先・公式資料](https://pubmed.ncbi.nlm.nih.gov/22349129/)
 
-ミキサー食の見た目やべたつきを改善するため、増粘剤単独と増粘剤＋ゼラチンのソフト食を比較した。ゼラチン併用群は多くの項目で良好な評価を得た。
+- **区分：** 海外・国際／総説
+- **選定理由：** Kentish・Ashokkumarらの超音波加工研究系列。
+- **内容：** 超音波を用いた乳化・分散・加工を整理。
+- **モクテルへの応用：** 抽出と乳化の工程設計を比較する。
+- **限界・注意：** 装置出力や温度の違いを無視して再現できない。
 
----
+<a id="ref-19"></a>
+## 19. Hydrocolloids at interfaces and the influence on the properties of dispersed systems
 
-### 一般家庭でも容易に作製可能な離水しにくい粥に関する研究
+**Dickinson E（2003）**。Food Hydrocolloids 。
 
-- **著者**：片山 直美、足土 由里佳、一野 晃代、長坂 恵樹子、加藤 江理、伊藤 えり、太田 陽子、梶川 典子、蟹谷 未香、下林 真知子、恒川 小百合、早川 ちひろ、楪葉 真由、藤本 保志
-- **タイトル**：一般家庭でも容易に作製可能な離水しにくい粥に関する研究
-- **出版年**：2010
-- **雑誌**：耳鼻と臨床
-- **書誌情報**：56巻Suppl.2、S125–S132頁
-- **リンク**：[DOI](https://doi.org/10.11334/jibi.56.S125) ／ [J-STAGE](https://www.jstage.jst.go.jp/article/jibi/56/Suppl.2/56_Suppl.2_S125/_article/-char/ja)
+[原掲載先・公式資料](https://www.sciencedirect.com/science/article/pii/S0268005X01001205)
 
-#### 要旨
+- **区分：** 海外・国際／総説
+- **選定理由：** Dickinsonの食品界面・乳化研究の基盤的総説。
+- **内容：** 界面における多糖・タンパク質の相互作用と乳化安定性を整理する。
+- **モクテルへの応用：** 乳・植物性素材・香料油を含む飲料の分離を考える。
+- **限界・注意：** 物理的安定性は嚥下安全性や衛生的保存性の保証ではない。
 
-家庭用炊飯器と各種増粘剤を用いて、離水しにくい粥の作製方法を検討した。熱湯使用と増粘剤添加により、時間経過後も離水しにくく軟らかな粥を作製できた。
+<a id="ref-20"></a>
+## 20. 異なるゲル化剤を用いた3種のお茶ゼリーの飲み込み特性―若年者と高齢者の比較―
 
----
+**丹治彩子, 高橋智子, 大越ひろ（2005）**。日本摂食嚥下リハビリテーション学会雑誌 。
 
-### 摂食・嚥下障害者に適した「高齢者ソフト食」の開発
+[原掲載先・公式資料](https://doi.org/10.32136/jsdr.9.1_62)
 
-- **著者**：黒田 留美子
-- **タイトル**：摂食・嚥下障害者に適した「高齢者ソフト食」の開発
-- **出版年**：2004
-- **雑誌**：日本摂食嚥下リハビリテーション学会雑誌
-- **書誌情報**：8(1)、10–16頁
-- **リンク**：[PDF](https://www.jstage.jst.go.jp/article/jsdr/8/1/8_10/_pdf)
+- **区分：** 国内／必読・国内研究
+- **選定理由：** 高橋・大越らの嚥下調整ゲル研究系列。
+- **内容：** 異なるゲル化剤で作った茶ゼリーについて、若年者と高齢者の飲み込み特性を比較する。
+- **モクテルへの応用：** 茶の風味を残したゲル状モクテルの設計に近い国内資料。
+- **限界・注意：** 主観的な飲み込みやすさの評価を、誤嚥がないことの証明としない。
 
----
+<a id="ref-21"></a>
+## 21. 非温度依存性即席ゲル化剤の開発とそのテクスチャー特性
 
-### 近年の食品3Dプリンタの発展
+**西尾正輝, 森下博己, 飯野登志子, 田中康博（2008）**。日本摂食嚥下リハビリテーション学会雑誌 。
 
-- **著者**：川上 勝、古川 英光
-- **タイトル**：近年の食品3Dプリンタの発展
-- **出版年**：2019
-- **雑誌**：日本画像学会誌
-- **書誌情報**：58巻4号、434–440頁
-- **リンク**：[DOI](https://doi.org/10.11370/isj.58.434) ／ [J-STAGE](https://www.jstage.jst.go.jp/article/isj/58/4/58_434/_article/-char/ja)
+[原掲載先・公式資料](https://doi.org/10.32136/jsdr.12.1_49)
 
-#### 要旨
+- **区分：** 国内／国内・技術開発
+- **選定理由：** 西尾らの嚥下調整食品の技術開発原著。製品開発の利害関係にも注意。
+- **内容：** 非温度依存性の即席ゲル化剤を開発し、テクスチャー特性を検討する。
+- **モクテルへの応用：** 加熱・冷却を伴わない提供工程を考えるための国内技術資料。
+- **限界・注意：** 特定製剤の研究であり、現行製品や別の飲料原料でも同じ結果とは限らない。
 
-食品3Dプリンタのカスタマイズ性、オンデマンド生産性、複雑形状形成の利点を概説し、介護食への応用例を紹介する。複数ノズルにより食品内部に味や硬さの変化を与える技術も扱う。
+<a id="ref-22"></a>
+## 22. とろろを用いたゲル–ゾル混合系食物の物性，食べやすさ，および咽頭相における嚥下動態
 
----
+**高橋智子・二藤隆春・小野江茉莉・田山二朗・大越ひろ（2010）**。日本摂食嚥下リハビリテーション学会雑誌 。
 
-### エスプーマ利用による高齢者食への展開
+[原掲載先・公式資料](https://doi.org/10.32136/jsdr.14.3_201)
 
-- **著者**：峯木 眞知子
-- **タイトル**：エスプーマ利用による高齢者食への展開
-- **出版年**：2022
-- **雑誌**：日本家政学会誌
-- **書誌情報**：73巻12号、731–737頁
+- **区分：** 国内／原著
+- **選定理由：** 高橋・大越と嚥下臨床研究者による共同研究。
+- **内容：** ゲルと粘性のあるゾルの混合物を官能評価とVFで検討。
+- **モクテルへの応用：** 粒入り飲料・ゲル混合物の構造を考える。
+- **限界・注意：** 健常若年者の結果であり患者にそのまま提供できない。
 
-#### 評価
+<a id="ref-23"></a>
+## 23. とろみを付加したゲル状パン粥の物理的特性と食べやすさの検討
 
-**B+。** 面白い。分子調理の技術を利用した嚥下食開発の報告。ヒントになりそう。
+**高橋智子・河村彩乃・大越ひろ（2015）**。日本調理科学会誌 。
 
----
+[原掲載先・公式資料](https://doi.org/10.11402/cookeryscience.48.342)
 
-### 分子調理学のすすめ
+- **区分：** 国内／原著
+- **選定理由：** 高橋・大越らの物性と摂食過程の研究系列。
+- **内容：** ゲル表面のとろみと温度が物性・官能・筋活動に与える影響を検討。
+- **モクテルへの応用：** 表面処理と提供温度の設計に応用する着眼点。
+- **限界・注意：** パン粥の知見であり飲料への直接の証拠ではない。
 
-- **著者**：石川 伸一
-- **タイトル**：分子調理学のすすめ
-- **出版年**：2019
-- **雑誌**：日本家政学会誌
-- **書誌情報**：70巻10号、692–695頁
+<a id="ref-24"></a>
+## 24. 異なるゲル化剤を用いた重湯ゲルの嚥下時筋活動および官能評価を用いた食べやすさの評価
 
-#### 評価
+**中川裕子・筧慎治・髙橋智子・大越ひろ（2024）**。日本調理科学会誌 。
 
-**B+。** 大枠を把握するという意味で大事。分子調理についての定義、学としての側面と技術としてのミクロからマクロ／マクロからミクロの両方向、料理人と科学者の共同の重要性を論じる。
+[原掲載先・公式資料](https://doi.org/10.11402/cookeryscience.57.19)
 
-## その他の関連文献
+- **区分：** 国内／原著・近年
+- **選定理由：** 高橋・大越らの研究系列を更新する近年の原著。
+- **内容：** ゲル化剤の違いを物性・官能・嚥下時筋活動から評価。
+- **モクテルへの応用：** 在宅でも扱いやすいゲル化工程を比較する。
+- **限界・注意：** 若年者での評価を患者の安全性と同一視しない。
 
-- **永塚 規衣（2011）**「ゲル状嚥下食品“煮こごり”の調理性および抗酸化性の研究」『日本調理科学会誌』44巻2号、107–113頁。[DOI](https://doi.org/10.11402/cookeryscience.44.107)
-- **吉永 奈津希、馬場 智子、古賀 貴子（2019）**「咀嚼能力低下者に対する食事のテクスチャーからみた食品選択と調理法」『長崎国際大学論叢』19、161–168頁。
-- **的場 輝佳（2015）**「京料理と嚥下食のコラボレーション」『食文化誌 Vesta』97号、2–3頁。
-- **谷口 啓子、藤井 わか子、曽根 良昭（2017）**「介護福祉施設における嚥下食の手づくり調理の試み」『美作大学紀要』50、85–90頁。
+<a id="ref-25"></a>
+## 25. 茶主要成分の茶浸出液への溶出特性
 
-## 追加文献（2026年9月23日）
+**堀江秀樹・氏原ともみ・木幡勝則（2001）**。茶業研究報告 2001, (91), 29-33。
 
-{{< include _cooking_20260923_01.md >}}
+[原掲載先・公式資料](https://doi.org/10.5979/cha.2001.91_29)
 
-{{< include _cooking_20260923_02.md >}}
+- **区分：** 国内／原著
+- **選定理由：** 堀江・木幡ら茶化学研究の蓄積に基づく基礎論文。
+- **内容：** 浸出条件と茶成分の溶出を調べる。
+- **モクテルへの応用：** 茶ベースの温度・時間・抽出順を設計する。
+- **限界・注意：** 品種・製茶条件によって味は変わる。
+- **引用の参考値：** Crossref被引用件数 5件（調査時点の登録値。網羅的件数・質の評価ではない）。
 
-{{< include _cooking_20260923_03.md >}}
+<a id="ref-26"></a>
+## 26. 緑茶の硬水浸出液に生じる白色沈殿
+
+**堀江秀樹・山内雄二・木幡勝則（1998）**。日本食品科学工学会誌 。
+
+[原掲載先・公式資料](https://doi.org/10.3136/nskkk.45.364)
+
+- **区分：** 国内／原著
+- **選定理由：** 堀江・木幡らの茶成分・品質研究系列。
+- **内容：** 硬水での茶の沈殿を分析する。
+- **モクテルへの応用：** 仕込み用水の硬度と外観・安定性を管理する背景。
+- **限界・注意：** 水質とレシピごとの再現確認が必要。
