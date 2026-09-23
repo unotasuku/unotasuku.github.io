@@ -1,6 +1,6 @@
 ---
 title: 'Princeの「Kiss」の歌詞は価値観の提示かそれともストーリーか？'
-date: "2026-09-18"
+date: "2026-09-22"
 lang: ja
 toc: false
 page-layout: full
