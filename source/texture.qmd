@@ -1,167 +1,462 @@
 ---
 title: "物性・粘度・テクスチャー"
 lang: ja
+toc: true
 ---
 
-硬さ、凝集性、付着性、粘度、ゲル、とろみ、時間・温度変化など。
 
-## 文献
 
-### 官能評価による学会分類2013（とろみ）の粘度範囲の妥当性
+**最終更新日：2026年9月24日**
 
-- **著者**：山縣 誉志江、與儀 沙織、栢下 淳
-- **タイトル**：官能評価による学会分類2013（とろみ）の粘度範囲の妥当性
-- **出版年**：2017
-- **雑誌**：日本摂食嚥下リハビリテーション学会雑誌
-- **書誌情報**：21巻3号、129–135頁
-- **リンク**：[DOI](https://doi.org/10.32136/jsdr.21.3_129) ／ [J-STAGE](https://www.jstage.jst.go.jp/article/jsdr/21/3/21_129/_article/-char/ja)
+**30件／国内由来 10件。** 粘度だけでなく、伸長物性、潤滑、口腔処理、温度・時間・唾液による変化を扱う。
 
-#### 要旨
+「国内」は日本語論文だけでなく、日本の研究機関・研究班による英文論文を含む。国際共同研究では主たる研究班によって分類した。
 
-摂食・嚥下障害看護認定看護師151名を対象に、粘度の異なる12種類のとろみ液を用いて官能評価を実施し、学会基準案2012の3段階のとろみの粘度範囲を検証した。薄いとろみの下限値50 mPa·sは妥当、100 mPa·s付近は概ね妥当である一方、400 mPa·sおよび600 mPa·sは高すぎる可能性が示され、学会分類2013の基準変更につながった。
+## 収録一覧
 
-#### 評価
+|番号|地域|年|資料・論文|種別|
+|---|---|---|---|---|
+|01|海外・国際|2017|[Development of International Terminology and Definitions for Texture-Modified Foods and Thickened Fluids Used in Dysphagia Management: The IDDSI Framework](#ref-01)|必読・枠組み論文|
+|02|海外・国際|2015|[The Influence of Food Texture and Liquid Consistency Modification on Swallowing Physiology and Function: A Systematic Review](#ref-02)|必読・システマティックレビュー|
+|03|海外・国際|2016|[Effect of Bolus Viscosity on the Safety and Efficacy of Swallowing and the Kinematics of the Swallow Response in Patients with Oropharyngeal Dysphagia: White Paper by the European Society for Swallowing Disorders (ESSD)](#ref-03)|必読・ホワイトペーパー／総説|
+|04|海外・国際|2018|[Thickened Liquids for Dysphagia Management: a Current Review of the Measurement of Liquid Flow](#ref-04)|必読・総説|
+|05|海外・国際|2013|[Thickening agents used for dysphagia management: effect on bioavailability of water, medication and feelings of satiety](#ref-05)|必読・総説|
+|06|海外・国際|2021|[Texture and texture assessment of thickened fluids and texture‐modified food for dysphagia management](#ref-06)|総説|
+|07|海外・国際|2021|[Food polysaccharides and roles of rheology and tribology in rational design of thickened liquids for oropharyngeal dysphagia: A review](#ref-07)|必読・総説|
+|08|海外・国際|2020|[Rheological, tribological and sensory attributes of texture‐modified foods for dysphagia patients and the elderly: A review](#ref-08)|総説|
+|09|海外・国際|2007|[Time-Dependent Rheology of Starch Thickeners and the Clinical Implications for Dysphagia Therapy](#ref-09)|基礎実験|
+|10|海外・国際|2008|[Serving Temperature Viscosity Measurements of Nectar- and Honey-Thick Liquids](#ref-10)|基礎実験|
+|11|海外・国際|2012|[Effects of Saliva on Starch-thickened Drinks with Acidic and Neutral pH](#ref-11)|基礎実験|
+|12|海外・国際|2020|[Evaluation of Thickened Fluids Used in Dysphagia Management Using Extensional Rheology](#ref-12)|必読・基礎実験|
+|13|海外・国際|2022|[Dysphagia thickeners in context of use: Changes in thickened drinks viscosity and thixotropy with temperature and time of consumption](#ref-13)|必読・基礎実験|
+|14|海外・国際|2019|[Relationships between shear rheology and sensory attributes of hydrocolloid-thickened fluids designed to compensate for impairments in oral manipulation and swallowing](#ref-14)|基礎実験・官能評価|
+|15|海外・国際|2022|[On the assessment of shear and extensional rheology of thickened liquids from commercial gum-based thickeners used in dysphagia management](#ref-15)|基礎実験|
+|16|海外・国際|2025|[Effect of Thickened Fluids on Swallowing Function in Oropharyngeal Dysphagia: Impact of Shear Rheology and Disorder Subtype](#ref-16)|先端・臨床生理研究|
+|17|海外・国際|2026|[The Influence of Liquid Consistency and Food Texture on Swallowing: A Systematic Review Update](#ref-17)|必読・先端・システマティックレビュー|
+|18|海外・国際|2008|[Comparison of 2 interventions for liquid aspiration on pneumonia incidence: a randomized trial](#ref-18)|必読・ランダム化比較試験|
+|19|海外・国際|2009|[Food oral processing—A review](#ref-19)|総説|
+|20|海外・国際|2022|[Current Perspectives on Food Oral Processing](#ref-20)|総説|
+|21|国内|2022|[Effects of Carbonation on Swallowing: Systematic Review and Meta‐Analysis](#ref-21)|必読・システマティックレビュー／メタ解析|
+|22|国内|2014|[とろみ液の官能評価による分類―粘度およびLine Spread Test値の範囲設定―](#ref-22)|必読・原著|
+|23|国内|2019|[異なるとろみ調整食品でとろみづけした飲料を用いた簡易粘度評価方法の比較](#ref-23)|原著|
+|24|国内|2024|[市販トロミ付与水溶液のテクスチャー知覚の指標となる力学的特性―官能評価と機器分析を用いて―](#ref-24)|近年研究・技術論文|
+|25|国内|2012|[物性調査による嚥下調整食の現状と課題](#ref-25)|原著・多施設物性調査|
+|26|国内|2022|[Effects of thickened carbonated cola in older patients with dysphagia](#ref-26)|必読・臨床研究|
+|27|国内|2013|[2バイトテクスチャー試験（TPA）で得られるパラメータと超音波パルスドプラー法で求められる咽頭部流速との関係](#ref-27)|原著|
+|28|国内|2015|[性質の異なるとろみを使用した学会分類2013（とろみ）の検証](#ref-28)|原著|
+|29|国内|2017|[トロミ調整食品添加試料の摂食過程における性状変化](#ref-29)|原著|
+|30|国内|2013|[Parameters of Texture Profile Analysis](#ref-30)|査読短報・方法論|
 
-**A。** 物性についてのサーベイランスとして大事。歴史的な文献だが、このグループが物性関連をリードしている。物性関連をサーベイするならここからスタートすべき。
+<a id="ref-01"></a>
+## 01. Development of International Terminology and Definitions for Texture-Modified Foods and Thickened Fluids Used in Dysphagia Management: The IDDSI Framework
+
+**Cichero Julie A. Y.; Lam Peter; Steele Catriona M.; Hanson Ben; Chen Jianshe; Dantas Roberto O.; Duivestein Janice; Kayashita Jun; Lecko Caroline; Murray Joseph; Pillay Mershen; Riquelme Luis; Stanschus Soenke（2017）**。Dysphagia 32, (2), 293-314。
+
+[原掲載先・公式資料](https://doi.org/10.1007/s00455-016-9758-y)
+
+- **区分：** 海外・国際／必読・枠組み論文
+- **選定理由：** Cichero・Steele・Chen・栢下らによるIDDSI枠組みの開発論文。
+- **内容：** 国際的な嚥下調整食・液体の段階と測定方法を構築した論文。用語の違いを越えて飲料の性状を伝える基礎になる。
+- **モクテルへの応用：** レシピを商品名や添加量だけで記述せず、提供時のIDDSIレベルと測定条件を記録する出発点。
+- **限界・注意：** 分類への適合は、個人に対する嚥下安全性の保証とは別である。
+- **引用の参考値：** Crossref被引用件数 1048件（調査時点の登録値。網羅的件数・質の評価ではない）。
+
+<a id="ref-02"></a>
+## 02. The Influence of Food Texture and Liquid Consistency Modification on Swallowing Physiology and Function: A Systematic Review
+
+**Steele CM ほか（2015）**。Dysphagia 。
+
+[原掲載先・公式資料](https://doi.org/10.1007/s00455-014-9578-x)
+
+- **区分：** 海外・国際／必読・システマティックレビュー
+- **選定理由：** Steeleらの後続レビューが更新対象とする基盤的系統レビュー。
+- **内容：** 増粘と嚥下生理の関係を整理した基盤的総説。侵入・誤嚥の減少と咽頭残留の増加という両面を扱う。
+- **モクテルへの応用：** 「濃いほどよい」という設計を避け、安全性と排出効率の両方を試作評価に入れる根拠。
+- **限界・注意：** 研究間の液体定義・測定方法の違いに注意。2026年更新版と併読する。
+
+<a id="ref-03"></a>
+## 03. Effect of Bolus Viscosity on the Safety and Efficacy of Swallowing and the Kinematics of the Swallow Response in Patients with Oropharyngeal Dysphagia: White Paper by the European Society for Swallowing Disorders (ESSD)
+
+**Newman Roger; Vilardell Natàlia; Clavé Pere; Speyer Renée（2016）**。Dysphagia 31, (2), 232-249。
+
+[原掲載先・公式資料](https://doi.org/10.1007/s00455-016-9696-8)
+
+- **区分：** 海外・国際／必読・ホワイトペーパー／総説
+- **選定理由：** Clavé・Speyerらを含むESSDのホワイトペーパー。
+- **内容：** 嚥下の安全性・効率・運動学に対する粘度の作用をまとめる。食品物性と臨床評価の接点を把握できる。
+- **モクテルへの応用：** 対象者の病態と飲料の流動特性を対応させる際の理論的基盤。
+- **限界・注意：** 総説の結論をすべての疾患・すべての増粘剤に一律に適用しない。
+- **引用の参考値：** Crossref被引用件数 344件（調査時点の登録値。網羅的件数・質の評価ではない）。
+
+<a id="ref-04"></a>
+## 04. Thickened Liquids for Dysphagia Management: a Current Review of the Measurement of Liquid Flow
+
+**Barbon Carly E. A.; Steele Catriona M.（2018）**。Current Physical Medicine and Rehabilitation Reports 6, (4), 220-226。
+
+[原掲載先・公式資料](https://doi.org/10.1007/s40141-018-0197-6)
+
+- **区分：** 海外・国際／必読・総説
+- **選定理由：** Steeleらの測定方法研究を把握する総説。
+- **内容：** 液体の流れの測定と、従来の粘度分類・IDDSI分類の関係を整理する。
+- **モクテルへの応用：** レオメーター、シリンジ試験、臨床の表現を混同せず記録するための導入文献。
+- **限界・注意：** 異なる測定法の値は単純に換算できるとは限らない。
+- **引用の参考値：** Crossref被引用件数 31件（調査時点の登録値。網羅的件数・質の評価ではない）。
+
+<a id="ref-05"></a>
+## 05. Thickening agents used for dysphagia management: effect on bioavailability of water, medication and feelings of satiety
+
+**Cichero JAY（2013）**。Nutrition Journal 12, (1), 54。
+
+[原掲載先・公式資料](https://doi.org/10.1186/1475-2891-12-54)
+
+- **区分：** 海外・国際／必読・総説
+- **選定理由：** IDDSI開発に関わるCicheroの増粘剤総説。
+- **内容：** 増粘剤と水分の利用、薬物、満腹感などを検討する。物性だけでは飲料の臨床的価値を判断できないことが分かる。
+- **モクテルへの応用：** 水分摂取量、口渇、満足感もモクテルの評価に含める着眼点。
+- **限界・注意：** 薬剤との相互作用は個別確認が必要で、飲料レシピから一括して判断できない。
+- **引用の参考値：** Crossref被引用件数 229件（調査時点の登録値。網羅的件数・質の評価ではない）。
+
+<a id="ref-06"></a>
+## 06. Texture and texture assessment of thickened fluids and texture‐modified food for dysphagia management
+
+**Hadde Enrico K.; Chen Jianshe（2021）**。Journal of Texture Studies 52, (1), 4-15。
+
+[原掲載先・公式資料](https://doi.org/10.1111/jtxs.12567)
+
+- **区分：** 海外・国際／総説
+- **選定理由：** Chenらの食品口腔処理・テクスチャー研究の総説。
+- **内容：** 嚥下調整飲料・食品の重要な物性指標と客観的評価を概観する。
+- **モクテルへの応用：** 液体、半固体、ゼリー状モクテルを同じ「粘度」だけで比較しないために読む。
+- **限界・注意：** 食品の機器測定と患者の嚥下アウトカムを区別する。
+- **引用の参考値：** Crossref被引用件数 141件（調査時点の登録値。網羅的件数・質の評価ではない）。
+
+<a id="ref-07"></a>
+## 07. Food polysaccharides and roles of rheology and tribology in rational design of thickened liquids for oropharyngeal dysphagia: A review
+
+**Methacanon Pawadee; Gamonpilas Chaiwut; Kongjaroen Akapong; Buathongjan Chonchanok（2021）**。Comprehensive Reviews in Food Science and Food Safety 20, (4), 4101-4119。
+
+[原掲載先・公式資料](https://doi.org/10.1111/1541-4337.12791)
+
+- **区分：** 海外・国際／必読・総説
+- **選定理由：** Methacanon・Gamonpilasらの増粘液研究。後続の伸長物性研究も併録。
+- **内容：** デンプン、キサンタンガムなどの増粘材料をレオロジーとトライボロジーの観点から整理する。
+- **モクテルへの応用：** 飲み込みやすさと口当たりを両立する増粘剤選定の中心文献。
+- **限界・注意：** 潤滑指標が良好であることだけでは、臨床的有効性は確定しない。
+- **引用の参考値：** Crossref被引用件数 111件（調査時点の登録値。網羅的件数・質の評価ではない）。
+
+<a id="ref-08"></a>
+## 08. Rheological, tribological and sensory attributes of texture‐modified foods for dysphagia patients and the elderly: A review
+
+**Munialo Claire Darizu; Kontogiorgos Vassilis; Euston Stephen R.; Nyambayo Isabella（2020）**。International Journal of Food Science &amp; Technology 55, (5), 1862-1871。
+
+[原掲載先・公式資料](https://doi.org/10.1111/ijfs.14483)
+
+- **区分：** 海外・国際／総説
+- **選定理由：** Kontogiorgos・Eustonらを含む食品物性・コロイド研究の総説。
+- **内容：** 変形、流動、摩擦、感覚評価を接続して嚥下調整食を捉える総説。
+- **モクテルへの応用：** べたつき、滑らかさ、口内残留感を測定項目に落とし込む際に有用。
+- **限界・注意：** 機器的な差と、患者が感じる差はそれぞれ実測する必要がある。
+- **引用の参考値：** Crossref被引用件数 69件（調査時点の登録値。網羅的件数・質の評価ではない）。
+
+<a id="ref-09"></a>
+## 09. Time-Dependent Rheology of Starch Thickeners and the Clinical Implications for Dysphagia Therapy
+
+**Dewar Richard J.; Joyce Malcolm J.（2007）**。Dysphagia 21, (4), 264-269。
+
+[原掲載先・公式資料](https://doi.org/10.1007/s00455-006-9050-7)
+
+- **区分：** 海外・国際／基礎実験
+- **選定理由：** 後続研究で引用される調製後時間の測定研究。
+- **内容：** デンプン系増粘液の粘度が時間とともに変化することを測定した研究。
+- **モクテルへの応用：** 調製直後と提供時、飲み終わり時点を分けて検査する設計に使う。
+- **限界・注意：** 対象製品・温度・ずり速度に依存する結果である。
+- **引用の参考値：** Crossref被引用件数 62件（調査時点の登録値。網羅的件数・質の評価ではない）。
+
+<a id="ref-10"></a>
+## 10. Serving Temperature Viscosity Measurements of Nectar- and Honey-Thick Liquids
+
+**Garcia Jane Mertz; Chambers Edgar; Matta Ziad; Clark Megan（2008）**。Dysphagia 23, (1), 65-75。
+
+[原掲載先・公式資料](https://doi.org/10.1007/s00455-007-9098-z)
+
+- **区分：** 海外・国際／基礎実験
+- **選定理由：** Chambers・Garciaらの増粘飲料研究系列。
+- **内容：** 飲料、増粘剤、調製後時間と提供温度の組合せによる粘度の差を検討する。
+- **モクテルへの応用：** 冷たいモクテルの評価を室温の水だけで代用しないための必読実験。
+- **限界・注意：** 旧来のnectar／honey分類を現行IDDSIレベルと同一視しない。
+- **引用の参考値：** Crossref被引用件数 74件（調査時点の登録値。網羅的件数・質の評価ではない）。
+
+<a id="ref-11"></a>
+## 11. Effects of Saliva on Starch-thickened Drinks with Acidic and Neutral pH
+
+**Hanson Ben; Cox Ben; Kaliviotis Efstathios; Smith Christina H.（2012）**。Dysphagia 27, (3), 427-435。
+
+[原掲載先・公式資料](https://doi.org/10.1007/s00455-011-9386-5)
+
+- **区分：** 海外・国際／基礎実験
+- **選定理由：** IDDSIにも関わるHansonらの流動測定研究。
+- **内容：** 酸性・中性のデンプン増粘飲料に対する唾液の影響を検討する。
+- **モクテルへの応用：** 果汁や酸味料を加えた飲料では、水のとろみと同じ挙動を仮定しない。
+- **限界・注意：** カップ内への唾液混入を模した条件と、実際の口腔・咽頭通過は異なる。
+- **引用の参考値：** Crossref被引用件数 39件（調査時点の登録値。網羅的件数・質の評価ではない）。
+
+<a id="ref-12"></a>
+## 12. Evaluation of Thickened Fluids Used in Dysphagia Management Using Extensional Rheology
+
+**Hadde E. K.; Nicholson T. M.; Cichero J. A. Y.（2020）**。Dysphagia 35, (2), 242-252。
+
+[原掲載先・公式資料](https://doi.org/10.1007/s00455-019-10012-1)
+
+- **区分：** 海外・国際／必読・基礎実験
+- **選定理由：** Cichero・Haddeらのせん断粘度を補う伸長測定研究。
+- **内容：** 増粘した水と脱脂乳を用い、せん断粘度に加え伸長特性と表面張力を調べる。
+- **モクテルへの応用：** 「とろみ」と「切れにくさ・まとまり」を分けて考える。乳系レシピへの橋渡しにも有用。
+- **限界・注意：** 物性実験であり、患者の誤嚥減少を直接証明する研究ではない。オンライン公開は2019年。
+- **引用の参考値：** Crossref被引用件数 37件（調査時点の登録値。網羅的件数・質の評価ではない）。
+
+<a id="ref-13"></a>
+## 13. Dysphagia thickeners in context of use: Changes in thickened drinks viscosity and thixotropy with temperature and time of consumption
+
+**Badia‐Olmos Celia; Laguna Laura; Rizo Arantxa; Tárrega Amparo（2022）**。Journal of Texture Studies 53, (3), 383-395。
+
+[原掲載先・公式資料](https://doi.org/10.1111/jtxs.12685)
+
+- **区分：** 海外・国際／必読・基礎実験
+- **選定理由：** Tárrega・Lagunaらの食品物性・官能研究系列。
+- **内容：** 水、コーヒー、果汁、乳などの増粘飲料を、温度と静置時間を変えて評価する。
+- **モクテルへの応用：** レシピ別の待ち時間、保冷、提供可能時間を定めるための直接的な参考。
+- **限界・注意：** 変化の方向と程度は増粘剤と飲料の組合せで異なる。
+- **引用の参考値：** Crossref被引用件数 20件（調査時点の登録値。網羅的件数・質の評価ではない）。
+
+<a id="ref-14"></a>
+## 14. Relationships between shear rheology and sensory attributes of hydrocolloid-thickened fluids designed to compensate for impairments in oral manipulation and swallowing
+
+**Ross Alexander I.V.; Tyler Philippa; Borgognone M. Gabriela; Eriksen Bernadette M.（2019）**。Journal of Food Engineering 263, 123-131。
+
+[原掲載先・公式資料](https://doi.org/10.1016/j.jfoodeng.2019.05.040)
+
+- **区分：** 海外・国際／基礎実験・官能評価
+- **選定理由：** 機器物性と官能の対応を扱い、後続研究から引用される原著。
+- **内容：** 増粘液のせん断レオロジーと口腔操作・嚥下時の感覚特性を比較する。
+- **モクテルへの応用：** 単一の粘度値だけでなく、送り込みの努力や口内のまとまり感を評価する着眼点。
+- **限界・注意：** 官能評価と臨床の安全性評価を分けて解釈する。
+- **引用の参考値：** Crossref被引用件数 103件（調査時点の登録値。網羅的件数・質の評価ではない）。
+
+<a id="ref-15"></a>
+## 15. On the assessment of shear and extensional rheology of thickened liquids from commercial gum-based thickeners used in dysphagia management
+
+**Kongjaroen Akapong; Methacanon Pawadee; Gamonpilas Chaiwut（2022）**。Journal of Food Engineering 316, 110820。
+
+[原掲載先・公式資料](https://www.sciencedirect.com/science/article/pii/S0260877421003460)
+
+- **区分：** 海外・国際／基礎実験
+- **選定理由：** Methacanon・Gamonpilasらのせん断・伸長研究系列。
+- **内容：** 市販ガム系増粘剤をせん断、振動、伸長の測定から比較する。
+- **モクテルへの応用：** 同じ見かけ粘度でも異なる流動・変形挙動を示しうる点を押さえる。
+- **限界・注意：** 水溶液での比較を複雑な果汁や乳化飲料へ移す際は再検証が必要。
+- **引用の参考値：** Crossref被引用件数 66件（調査時点の登録値。網羅的件数・質の評価ではない）。
+
+<a id="ref-16"></a>
+## 16. Effect of Thickened Fluids on Swallowing Function in Oropharyngeal Dysphagia: Impact of Shear Rheology and Disorder Subtype
+
+**Omari T.; Ross A.; Schar M.; Campbell J.; Thompson A.; Besanko L.; Lewis D. A.; Robinson I.; Farahani M.; Cock C.; Mossel B.（2025）**。Neurogastroenterology &amp; Motility 37, (4), e15003。
+
+[原掲載先・公式資料](https://doi.org/10.1111/nmo.15003)
+
+- **区分：** 海外・国際／先端・臨床生理研究
+- **選定理由：** Omariらの嚥下内圧・流動研究の近年原著。
+- **内容：** 増粘液のせん断特性と嚥下障害のサブタイプによる反応の違いを検討する。
+- **モクテルへの応用：** 一律の濃度設定から、病態を踏まえた飲料選択へ進むための重要文献。
+- **限界・注意：** 内圧・インピーダンス等の生理指標と、日常生活での有効性を区別する。
+- **引用の参考値：** Crossref被引用件数 9件（調査時点の登録値。網羅的件数・質の評価ではない）。
+
+<a id="ref-17"></a>
+## 17. The Influence of Liquid Consistency and Food Texture on Swallowing: A Systematic Review Update
+
+**Steele Catriona M.; Dharmarathna Isuru; Benfield Jacqueline K.; Sollereder Simon; Lipkin Elaine; Pedrolli Carlo; Nagy Ahmed; Goldenberg Kiara; Smaoui Sana; Yu Dominie; Guo Alice; Najeeb Hiba; Mappanasingam Anittha; DiStefano Paige; Gandhi Pooja; Cichero Julie A. Y.; Simmons Michelle M.; Panes Vanessa; de Araujo Irina Sanchez; Lirani-Silva Camila; Mancopes Renata; Milne Hilary; Crawford Megan E.; Guimarães Fabíola Frizzo; Catao Michelle（2026）**。Dysphagia 。
+
+[原掲載先・公式資料](https://doi.org/10.1007/s00455-026-10977-w)
+
+- **区分：** 海外・国際／必読・先端・システマティックレビュー
+- **選定理由：** Steele・Cicheroらの2015年レビューを更新。新しいため引用の蓄積は限定的。
+- **内容：** 2015年の総説を更新し、液体の濃度・食品テクスチャーと嚥下の関係を再評価する。
+- **モクテルへの応用：** 研究計画・サイト本文を更新する際に、旧総説だけで結論を固定しないために読む。
+- **限界・注意：** 2026年7月オンライン公開。個々の研究の対象と一口量も確認する。
+- **引用の参考値：** Crossref被引用件数 1件（調査時点の登録値。網羅的件数・質の評価ではない）。
+
+<a id="ref-18"></a>
+## 18. Comparison of 2 interventions for liquid aspiration on pneumonia incidence: a randomized trial
+
+**Robbins J ほか（2008）**。Annals of Internal Medicine 。
+
+[原掲載先・公式資料](https://pubmed.ncbi.nlm.nih.gov/18378947/)
+
+- **区分：** 海外・国際／必読・ランダム化比較試験
+- **選定理由：** Robbins・Logemannらによる患者転帰を扱った多施設RCT。
+- **内容：** 認知症・パーキンソン病を含む対象で、姿勢調整と増粘液を肺炎発生などから比較した重要試験。
+- **モクテルへの応用：** 物性や検査中の誤嚥だけでなく、肺炎・脱水・摂取量を分けて評価する基盤。
+- **限界・注意：** 比較条件間に明確な肺炎予防の優劣を示せなかったことは、すべての増粘が無効という意味ではない。
+
+<a id="ref-19"></a>
+## 19. Food oral processing—A review
+
+**Chen J（2009）**。Food Hydrocolloids 23, (1), 1-25。
+
+[原掲載先・公式資料](https://www.sciencedirect.com/science/article/pii/S0268005X07002421)
+
+- **区分：** 海外・国際／総説
+- **選定理由：** Chenの食品口腔処理研究の基盤総説。
+- **内容：** 口腔内で食品が変形・破壊・混合される過程を体系化。
+- **モクテルへの応用：** 口に入る前だけの物性評価を見直す基礎。
+- **限界・注意：** 嚥下障害専用の臨床指針ではない。
+- **引用の参考値：** Crossref被引用件数 752件（調査時点の登録値。網羅的件数・質の評価ではない）。
+
+<a id="ref-20"></a>
+## 20. Current Perspectives on Food Oral Processing
+
+**He Y・Wang X・Chen J（2022）**。Annual Review of Food Science and Technology 。
+
+[原掲載先・公式資料](https://doi.org/10.1146/annurev-food-052720-103054)
+
+- **区分：** 海外・国際／総説
+- **選定理由：** Chenらの研究蓄積をAnnual Reviewsで整理。
+- **内容：** 口腔処理と食感・風味・嚥下・摂食行動を横断する。
+- **モクテルへの応用：** 物性と官能評価を接続した研究計画を作る。
+- **限界・注意：** モクテル介入の効果を直接検証していない。
+
+<a id="ref-21"></a>
+## 21. Effects of Carbonation on Swallowing: Systematic Review and Meta‐Analysis
+
+**Nagano Ayano; Maeda Keisuke; Shimizu Akio; Murotani Kenta; Mori Naoharu（2022）**。The Laryngoscope 132, (10), 1924-1933。
+
+[原掲載先・公式資料](https://doi.org/10.1002/lary.30019)
+
+- **区分：** 国内／必読・システマティックレビュー／メタ解析
+- **選定理由：** 前田らの嚥下・栄養研究班による炭酸のメタ解析。
+- **内容：** 炭酸刺激が嚥下に与える効果を統合する。炭酸を風味だけでなく感覚刺激として検討する入口。
+- **モクテルへの応用：** スパークリング型モクテルを研究対象とする場合の最初の総説。
+- **限界・注意：** 短期の嚥下指標と、肺炎・長期QOLは同一のアウトカムではない。
+- **引用の参考値：** Crossref被引用件数 17件（調査時点の登録値。網羅的件数・質の評価ではない）。
+
+<a id="ref-22"></a>
+## 22. とろみ液の官能評価による分類―粘度およびLine Spread Test値の範囲設定―
+
+**宇山理紗 ほか（2014）**。日本摂食嚥下リハビリテーション学会雑誌 。
+
+[原掲載先・公式資料](https://doi.org/10.32136/jsdr.18.1_13)
+
+- **区分：** 国内／必読・原著
+- **選定理由：** 藤谷・大越・栢下・藤島らを含む国内とろみ分類の基礎研究。
+- **内容：** 臨床経験者によるとろみ段階の官能評価を、粘度とLST値に対応させる。
+- **モクテルへの応用：** 日本の臨床で用いる「薄い・中間・濃いとろみ」の背景を確認する。
+- **限界・注意：** 論文中の範囲をIDDSIの閾値と混同しない。
+
+<a id="ref-23"></a>
+## 23. 異なるとろみ調整食品でとろみづけした飲料を用いた簡易粘度評価方法の比較
+
+**渡邊英美 ほか（2019）**。日本摂食嚥下リハビリテーション学会雑誌 。
+
+[原掲載先・公式資料](https://doi.org/10.32136/jsdr.23.1_19)
+
+- **区分：** 国内／原著
+- **選定理由：** 日本の臨床分類で用いる簡易測定法を比較する査読原著。
+- **内容：** 異なる増粘剤と飲料について、簡易粘度評価方法の関係を比較する。
+- **モクテルへの応用：** 訪問現場やバーでの測定法を選ぶ際に、材料依存性を理解する文献。
+- **限界・注意：** 簡易測定法同士の一致をあらゆる飲料で前提にしない。
+
+<a id="ref-24"></a>
+## 24. 市販トロミ付与水溶液のテクスチャー知覚の指標となる力学的特性―官能評価と機器分析を用いて―
+
+**黒飛知香, 干野隆芳, 矢守麻奈（2024）**。日本食品科学工学会誌 71, (8), 307-317。
+
+[原掲載先・公式資料](https://doi.org/10.3136/nskkk.NSKKK-D-24-00001)
+
+- **区分：** 国内／近年研究・技術論文
+- **選定理由：** 黒飛らの食品官能・物性研究。官能評価学会の受賞関連研究も参照。
+- **内容：** 複数のとろみ調整食品を用い、テクスチャー知覚と機器測定の対応を検討する。
+- **モクテルへの応用：** 日本語の官能評価項目を物性測定に接続したい場合に重要。
+- **限界・注意：** 水溶液での結果であり、酸味・香り・乳成分を含む飲料への適用は検証課題。
+- **引用の参考値：** Crossref被引用件数 0件（調査時点の登録値。網羅的件数・質の評価ではない）。
+
+<a id="ref-25"></a>
+## 25. 物性調査による嚥下調整食の現状と課題
+
+**山縣誉志江, 酒井美由季, 栢下淳（2012）**。日本摂食嚥下リハビリテーション学会雑誌 。
+
+[原掲載先・公式資料](https://doi.org/10.32136/jsdr.16.2_140)
+
+- **区分：** 国内／原著・多施設物性調査
+- **選定理由：** 栢下らの国内嚥下調整食の実測・標準化研究。
+- **内容：** 多数の施設で提供される嚥下調整食の物性を調査し、基準との対応を検討する。
+- **モクテルへの応用：** 複数の調製者・施設で同じレシピを再現できるかを検証する理由になる。
+- **限界・注意：** 主に食品の調査であり、飲料に固有の流動評価は別途必要。
+
+<a id="ref-26"></a>
+## 26. Effects of thickened carbonated cola in older patients with dysphagia
+
+**Saiki A（才木亜紀乃）; Yoshimi K; Nakagawa K; Nagasawa Y; Yoshizawa A; Yanagida R; Yamaguchi K; Nakane A; Maeda K; Tohara H（2022）**。Scientific Reports 12, (1), 22151。
+
+[原掲載先・公式資料](https://doi.org/10.1038/s41598-022-25926-4)
+
+- **区分：** 国内／必読・臨床研究
+- **選定理由：** 戸原・前田らを含む国内嚥下研究班による実飲料の研究。
+- **内容：** 高齢の嚥下障害者における増粘炭酸コーラと非炭酸条件の嚥下動態を比較する。
+- **モクテルへの応用：** 「水以外の楽しめる飲料」を検討する具体的な研究モデル。
+- **限界・注意：** モクテル全般の安全性を示すものではない。著者訂正あり：10.1038/s41598-023-30109-w。
+- **引用の参考値：** Crossref被引用件数 12件（調査時点の登録値。網羅的件数・質の評価ではない）。
+
+<a id="ref-27"></a>
+## 27. 2バイトテクスチャー試験（TPA）で得られるパラメータと超音波パルスドプラー法で求められる咽頭部流速との関係
+
+**谷米（長谷川）温子・神山かおる・熊谷仁ほか（2013）**。日本食品工学会誌 。
+
+[原掲載先・公式資料](https://www.jstage.jst.go.jp/article/jsfe/14/2/14_87/_article/-char/ja/)
+
+- **区分：** 国内／原著
+- **選定理由：** 熊谷・神山らの食品物性と口腔処理の研究系列。
+- **内容：** TPAの硬さ・付着性・凝集性と咽頭部流速を対応させる研究。
+- **モクテルへの応用：** ゼリーの機器評価指標を選ぶ。
+- **限界・注意：** TPAの凝集性を食塊のまとまりと同一視できない。
+
+<a id="ref-28"></a>
+## 28. 性質の異なるとろみを使用した学会分類2013（とろみ）の検証
+
+**山縣誉志江・栢下淳（2015）**。日本摂食嚥下リハビリテーション学会雑誌 。
+
+[原掲載先・公式資料](https://doi.org/10.32136/jsdr.19.2_109)
+
+- **区分：** 国内／原著
+- **選定理由：** 栢下らの分類・物性研究を補う検証論文。
+- **内容：** 増粘剤や栄養剤により官能・粘度・LSTの分類がずれることを検討。
+- **モクテルへの応用：** 水以外の基材を使う際の測定法の限界を把握。
+- **限界・注意：** 旧分類の検証であり現行分類の全面否定ではない。
+
+<a id="ref-29"></a>
+## 29. トロミ調整食品添加試料の摂食過程における性状変化
+
+**中川（岩崎）裕子・本多優美・高橋智子・大越ひろ（2017）**。日本調理科学会誌 。
+
+[原掲載先・公式資料](https://doi.org/10.11402/cookeryscience.50.133)
+
+- **区分：** 国内／原著
+- **選定理由：** 高橋・大越らによる継続的な嚥下調整食研究。
+- **内容：** 増粘剤の種類と口腔保持に伴う物性変化を調べる。
+- **モクテルへの応用：** 調製時と飲み込む時の性状を区別する。
+- **限界・注意：** 健常者の実験から患者の安全性を直接判断しない。
+
+<a id="ref-30"></a>
+## 30. Parameters of Texture Profile Analysis
+
+**Nishinari K・Kohyama K・Kumagai H・Funami T・Bourne MC（2013）**。Food Science and Technology Research 。
+
+[原掲載先・公式資料](https://doi.org/10.3136/fstr.19.519)
+
+- **区分：** 国内／査読短報・方法論
+- **選定理由：** 西成・神山・熊谷・船見・Bourneら食品テクスチャー研究者による方法論。
+- **内容：** TPAの測定パラメータの意味と誤用を論じる。
+- **モクテルへの応用：** ゲル化レシピの硬さ・凝集性を正しく記録する。
+- **限界・注意：** 同じTPA値でも口腔処理や安全性が同一とは限らない。
 
 ---
 
-### ハイドロコロイドによる食品のテクスチャーデザイン
-
-- **著者**：船見 孝博
-- **タイトル**：ハイドロコロイドによる食品のテクスチャーデザイン
-- **出版年**：2012
-- **雑誌**：日本食品工学会誌
-- **書誌情報**：13(1)、1–12頁
-- **リンク**：[J-STAGE](https://www.jstage.jst.go.jp/article/jsfe/13/1/13_1/_article/-char/ja/)
-
----
-
-### ハイドロコロイドを利用した食品のテクスチャーデザイン
-
-- **著者**：船見 孝博、石原 清香、中馬 誠、武中 壮祐
-- **タイトル**：ハイドロコロイドを利用した食品のテクスチャーデザイン
-- **出版年**：2011
-- **雑誌**：日本バイオレオロジー学会誌
-- **書誌情報**：25(3)、149–159頁
-- **リンク**：[J-STAGE](https://www.jstage.jst.go.jp/article/jpnbr/25/3/25_149/_article/-char/ja/)
-
----
-
-### 市販のゲル化剤を用いた造影剤ゲルのテクスチャー特性
-
-- **著者**：上羽 瑠美、黒田 明日香、臼倉 絵美、後藤 多嘉緒、佐藤 拓、横山 明子、兼岡 麻子、荻野 亜希子、井口 はるひ、二藤 隆春、山岨 達也
-- **タイトル**：市販のゲル化剤を用いた造影剤ゲルのテクスチャー特性
-- **出版年**：2018
-- **雑誌**：日本摂食嚥下リハビリテーション学会雑誌
-- **書誌情報**：22巻2号、127–135頁
-- **リンク**：[DOI](https://doi.org/10.32136/jsdr.22.2_127) ／ [J-STAGE](https://www.jstage.jst.go.jp/article/jsdr/22/2/22_127/_article/-char/ja)
-
-#### 要旨
-
-カラギーナン、ペクチン、XG-LBGを含む3種類の市販ゲル化剤を用いて、非イオン性造影剤とBaを添加した造影剤ゲルを作製し、テクスチャー特性を比較した。造影剤とゲル化剤の組み合わせにより嚥下調整食コード相当の物性が異なり、目的に応じた選択の必要性が示された。
-
----
-
-### 物性調査による嚥下調整食の現状と課題
-
-- **著者**：山縣 誉志江、酒井 美由季、栢下 淳
-- **タイトル**：物性調査による嚥下調整食の現状と課題
-- **出版年**：2012
-- **雑誌**：日本摂食嚥下リハビリテーション学会雑誌
-- **書誌情報**：16巻2号、140–147頁
-- **リンク**：[DOI](https://doi.org/10.32136/jsdr.16.2_140) ／ [J-STAGE](https://www.jstage.jst.go.jp/article/jsdr/16/2/16_140/_article/-char/ja)
-
-#### 要旨
-
-176施設、903種類の嚥下食を物性測定し、えん下困難者用食品許可基準で評価した。肉類、魚介類、芋類、検査食では過半数が許可基準外で、温度や付着性、硬さなどが要因となった。調理時の加水量調整により基準内へ近づけられる可能性も示唆された。
-
----
-
-### 嚥下食と食品物性
-
-- **著者**：西津 貴久
-- **タイトル**：嚥下食と食品物性
-- **出版年**：2012
-- **雑誌**：美味技術学会誌
-- **書誌情報**：11巻1号、2–5頁
-- **リンク**：[DOI](https://doi.org/10.11274/bimi.11.1_2) ／ [J-STAGE](https://www.jstage.jst.go.jp/article/bimi/11/1/11_2/_article/-char/ja)
-
----
-
-### ピュレおよびペーストの食形態の認識調査とその物性
-
-- **著者**：賀楽 二美栄、山縣 誉志江、西川 みか、栢下 淳
-- **タイトル**：ピュレおよびペーストの食形態の認識調査とその物性
-- **出版年**：2011
-- **雑誌**：日本摂食嚥下リハビリテーション学会雑誌
-- **書誌情報**：15巻3号、304–309頁
-- **リンク**：[DOI](https://doi.org/10.32136/jsdr.15.3_304) ／ [J-STAGE](https://www.jstage.jst.go.jp/article/jsdr/15/3/15_304/_article/-char/ja)
-
-#### 要旨
-
-栄養士244名に31品目の市販食品について「液体」「ピュレ」「ペースト」「ムース」「固体」の分類を求め、併せて物性測定を行った。ピュレとペーストの認識には重なりがあり、かたさ700 N/m²、粘度5,000 mPa・s前後が一つの目安として示された。
-
----
-
-### 嚥下食の物性に及ぼす調理後の経過時間の影響
-
-- **著者**：坂井 真奈美、栢下 淳
-- **タイトル**：嚥下食の物性に及ぼす調理後の経過時間の影響
-- **出版年**：2007
-- **雑誌**：県立広島大学人間文化学部紀要
-- **書誌情報**：2、49–62頁
-- **リンク**：[機関リポジトリ](http://harp.lib.hiroshima-u.ac.jp/pu-hiroshima/metadata/5809)
-
-#### 要旨
-
-調理後の嚥下食の物性が時間経過や温度変化でどのように変化するかを検討した。ゼラチンゼリーでは温度上昇に伴い硬さが減少し、温かい主食や肉・魚では冷却に伴い硬さや付着性が増加した。提供時の保温・保冷が重要であることが示唆された。
-
----
-
-### 臨床的成果のある段階的嚥下食に関する食品物性比較
-
-- **著者**：坂井 真奈美、江頭 文江、金谷 節子、栢下 淳
-- **タイトル**：臨床的成果のある段階的嚥下食に関する食品物性比較
-- **出版年**：2006
-- **雑誌**：日本摂食嚥下リハビリテーション学会雑誌
-- **書誌情報**：10巻3号、239–248頁
-- **リンク**：[DOI](https://doi.org/10.32136/jsdr.10.3_239) ／ [J-STAGE](https://www.jstage.jst.go.jp/article/jsdr/10/3/10_239/_article/-char/ja)
-
-#### 要旨
-
-聖隷三方原病院で提供される段階的嚥下食について、かたさ・凝集性・付着性を測定し、臨床的に使用されている各段階の物性範囲を示した研究。
-
----
-
-### 嚥下食の物性
-
-- **著者**：佐藤 友美、山田 奈津美
-- **タイトル**：嚥下食の物性
-- **出版年**：2014
-- **雑誌**：IRYO
-- **書誌情報**：68(6)、311–315頁
-- **リンク**：[PDF](https://iryogakkai.jp/2014-68-06/311-5.pdf)
-
----
-
-### 病院における摂食・嚥下機能に対応した食事のテクスチャー
-
-- **著者**：吉永 奈津希、馬場 智子、古賀 貴子
-- **タイトル**：病院における摂食・嚥下機能に対応した食事のテクスチャー
-- **出版年**：2017
-- **雑誌**：長崎国際大学論叢
-- **書誌情報**：17、199–209頁
-- **リンク**：[機関リポジトリ](https://niu.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=1144&item_no=1&page_id=13&block_id=17)
-
-## その他の関連文献
-
-- **菊田 千景、高橋 真由、赤尾 正（2021）**「摂食・嚥下機能障害者のためのゼリー食レシピの検討」『研究紀要』11、173–180頁。
-
-## 追加文献（2026年9月23日）
-
-{{< include _texture_20260923_01.md >}}
-
-{{< include _texture_20260923_02.md >}}
-
-{{< include _texture_20260923_03.md >}}
+本資料は選定型の文献案内であり、網羅的システマティックレビューではない。飲料への応用は提案を含む。一般成人の物性・官能研究から、嚥下障害者の安全性・QOL改善を直接推定しない。
