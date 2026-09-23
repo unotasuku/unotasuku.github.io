@@ -24,14 +24,15 @@ Resarchmapは[こちら](https://researchmap.jp/uno.tasuku)。たいていの発
 
 - [研究業績](research.qmd)
 
+- [モクテル関連資料集](../source/index.qmd)
+
+- [雑記](../posts/index.qmd)
+
 - [日記](../diary/index.qmd)
 
 - [読んだ本や映画、音楽のリスト](../booklog/index.qmd)
 
-- [モクテル関連資料集](../source/index.qmd)
-
 - [遊びで作ったソフト](../soft/index.qmd)
 
-- [雑記](../posts/index.qmd)
 
 ***
