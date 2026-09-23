@@ -145,3 +145,11 @@ lang: ja
 - **守田 愛梨（2019）**「だし味添加ゼリーの粘弾性特性と官能評価によるおいしさ評価分析法の検討」『日本食品工学会誌』20(2)、71–79頁。
 - **橋本 洋子（2018）**「幼児期の好き嫌いと食嗜好の関連」『秋草学園短期大学図書館』34、225–238頁。
 - **日本と中国における抹茶レシピの嗜好の分析**：[関西大学機関リポジトリ](https://kansai-u.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=16098&item_no=1&page_id=13&block_id=21)
+
+## 追加文献（2026年9月23日）
+
+{{< include _taste_20260923_01.md >}}
+
+{{< include _taste_20260923_02.md >}}
+
+{{< include _taste_20260923_03.md >}}
