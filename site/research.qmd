@@ -1,37 +1,46 @@
 ---
-title: "研究業績"
-lang: ja
+title: "研究"
+date: today
+date-format: "YYYY年M月D日"
+published-title: "最終更新日"
 ---
 
-researchmap に公開している MISC と講演・口頭発表等を一覧表示します。
+バー、カクテルの哲学といった哲学・倫理学関係の分野のものが中心です。
 
-> 注：researchmap の公開 API から全件を取得しています。researchmap 側で追加・更新した公開業績は、このページにも自動で反映されます。
+言語聴覚士としての発表もちょこちょこはしています。
+
+最終的に両者の研究がモクテルの研究を通じて完成するという形をとる予定です（あくまで予定）。
 
 [researchmap のプロフィール](https://researchmap.jp/uno.tasuku)
 
-## MISC
-
-<div id="misc-list">researchmap から読み込み中...</div>
+---
 
 ## 講演・口頭発表等
 
 <div id="presentations-list">researchmap から読み込み中...</div>
+
+---
+
+## MISC
+
+<div id="misc-list">researchmap から読み込み中...</div>
 
 <script>
 const RM_PERMALINK = "uno.tasuku";
 const RM_API = "https://api.researchmap.jp";
 const RM_WEB = "https://researchmap.jp";
 
+// 自分のコメントはここに追加します。
+// researchmap のタイトルをそのままキーにして、右側にコメントを書いてください。
+// 例：
+// "カクテル注文は共同行為か": "Ludwig と Gilbert の議論を比較した発表。現在の研究の出発点の一つ。",
+const COMMENTS = {
+};
+
 function langText(value) {
   if (!value) return "";
   if (typeof value === "string") return value;
   return value.ja || value.en || "";
-}
-
-function personNames(value) {
-  if (!value) return "";
-  const people = value.ja || value.en || [];
-  return people.map(x => x.name).filter(Boolean).join("、");
 }
 
 function escapeHtml(value) {
@@ -51,15 +60,24 @@ function recordId(item) {
 
 function recordUrl(item, type) {
   const id = recordId(item);
-  return id ? `${RM_WEB}/${RM_PERMALINK}/${type}/${id}` : `${RM_WEB}/${RM_PERMALINK}`;
+  return id
+    ? `${RM_WEB}/${RM_PERMALINK}/${type}/${id}`
+    : `${RM_WEB}/${RM_PERMALINK}`;
 }
 
 function uniqueLinks(item, type) {
-  const links = [{ label: "researchmap", url: recordUrl(item, type) }];
+  const links = [
+    { label: "researchmap", url: recordUrl(item, type) }
+  ];
 
   const doiList = item?.identifiers?.doi || [];
   doiList.forEach(doi => {
-    if (doi) links.push({ label: "DOI", url: `https://doi.org/${doi}` });
+    if (doi) {
+      links.push({
+        label: "DOI",
+        url: `https://doi.org/${doi}`
+      });
+    }
   });
 
   (item.see_also || []).forEach(link => {
@@ -80,98 +98,131 @@ function uniqueLinks(item, type) {
 
 function linkHtml(item, type) {
   return uniqueLinks(item, type)
-    .map(link => `<a href="${escapeHtml(link.url)}">${escapeHtml(link.label)}</a>`)
+    .map(link =>
+      `<a href="${escapeHtml(link.url)}">${escapeHtml(link.label)}</a>`
+    )
     .join(" ／ ");
 }
 
-function bibliographicInfo(item) {
+function yearFromDate(value) {
+  if (!value) return "";
+  return String(value).slice(0, 4);
+}
+
+function miscCitation(item) {
   const parts = [];
-  if (item.volume) parts.push(`${item.volume}巻`);
-  if (item.number) parts.push(`${item.number}号`);
+
+  const journal = langText(item.publication_name);
+  if (journal) parts.push(journal);
+
+  let issue = "";
+  if (item.volume && item.number) issue = `${item.volume}(${item.number})`;
+  else if (item.volume) issue = `${item.volume}`;
+  else if (item.number) issue = `(${item.number})`;
+  if (issue) parts.push(issue);
+
   if (item.starting_page || item.ending_page) {
     const start = item.starting_page || "";
     const end = item.ending_page || "";
-    parts.push(start && end ? `${start}–${end}頁` : `${start || end}頁`);
+    parts.push(start && end ? `${start}–${end}` : `${start || end}`);
   }
-  const publisher = langText(item.publisher);
-  if (publisher) parts.push(publisher);
-  return parts.join("、");
+
+  return parts.join(" ");
 }
 
-function renderMisc(items) {
-  const root = document.getElementById("misc-list");
-  if (!items.length) {
-    root.textContent = "公開されている MISC はありません。";
-    return;
-  }
+function commentHtml(title) {
+  const comment = COMMENTS[title];
+  if (!comment) return "";
 
-  root.innerHTML = items.map(item => {
-    const title = langText(item.paper_title) || "無題";
-    const authors = personNames(item.authors);
-    const journal = langText(item.publication_name);
-    const date = item.publication_date || "";
-    const info = bibliographicInfo(item);
-    const description = langText(item.description);
+  return `
+    <div class="research-comment">
+      <h4>コメント</h4>
+      <p>${escapeHtml(comment)}</p>
+    </div>
+  `;
+}
 
-    return `
-      <section class="research-entry">
-        <h3>${escapeHtml(title)}</h3>
-        <ul>
-          ${authors ? `<li><strong>著者</strong>：${escapeHtml(authors)}</li>` : ""}
-          <li><strong>タイトル</strong>：${escapeHtml(title)}</li>
-          ${date ? `<li><strong>出版年</strong>：${escapeHtml(date)}</li>` : ""}
-          ${journal ? `<li><strong>雑誌・出版物</strong>：${escapeHtml(journal)}</li>` : ""}
-          ${info ? `<li><strong>書誌情報</strong>：${escapeHtml(info)}</li>` : ""}
-          <li><strong>リンク</strong>：${linkHtml(item, "misc")}</li>
-        </ul>
-        ${description ? `<h4>概要</h4><p>${escapeHtml(description)}</p>` : ""}
-        <hr>
-      </section>`;
-  }).join("");
+function sortNewest(items, dateKeys) {
+  return [...items].sort((a, b) => {
+    const aDate = dateKeys.map(k => a[k]).find(Boolean) || "";
+    const bDate = dateKeys.map(k => b[k]).find(Boolean) || "";
+    return String(bDate).localeCompare(String(aDate));
+  });
 }
 
 function renderPresentations(items) {
   const root = document.getElementById("presentations-list");
-  if (!items.length) {
+  const sorted = sortNewest(items, ["publication_date", "from_event_date"]);
+
+  if (!sorted.length) {
     root.textContent = "公開されている講演・口頭発表等はありません。";
     return;
   }
 
-  root.innerHTML = items.map(item => {
+  root.innerHTML = sorted.map(item => {
     const title = langText(item.presentation_title) || "無題";
-    const presenters = personNames(item.presenters);
     const event = langText(item.event);
-    const date = item.publication_date || item.from_event_date || "";
-    const description = langText(item.description);
-    const invited = item.invited === true ? "招待講演" : "";
+    const rawDate = item.publication_date || item.from_event_date || "";
+    const year = yearFromDate(rawDate);
+
+    const meta = [year, event].filter(Boolean).join("｜");
 
     return `
       <section class="research-entry">
         <h3>${escapeHtml(title)}</h3>
-        <ul>
-          ${presenters ? `<li><strong>発表者</strong>：${escapeHtml(presenters)}</li>` : ""}
-          <li><strong>タイトル</strong>：${escapeHtml(title)}</li>
-          ${date ? `<li><strong>発表日</strong>：${escapeHtml(date)}</li>` : ""}
-          ${event ? `<li><strong>学会・研究会</strong>：${escapeHtml(event)}</li>` : ""}
-          ${invited ? `<li><strong>区分</strong>：${invited}</li>` : ""}
-          <li><strong>リンク</strong>：${linkHtml(item, "presentations")}</li>
-        </ul>
-        ${description ? `<h4>概要</h4><p>${escapeHtml(description)}</p>` : ""}
+        ${meta ? `<p><strong>${escapeHtml(meta)}</strong></p>` : ""}
+        <p>${linkHtml(item, "presentations")}</p>
+        ${commentHtml(title)}
         <hr>
-      </section>`;
+      </section>
+    `;
+  }).join("");
+}
+
+function renderMisc(items) {
+  const root = document.getElementById("misc-list");
+  const sorted = sortNewest(items, ["publication_date"]);
+
+  if (!sorted.length) {
+    root.textContent = "公開されている MISC はありません。";
+    return;
+  }
+
+  root.innerHTML = sorted.map(item => {
+    const title = langText(item.paper_title) || "無題";
+    const year = yearFromDate(item.publication_date || "");
+    const citation = miscCitation(item);
+
+    const meta = [year, citation].filter(Boolean).join("｜");
+
+    return `
+      <section class="research-entry">
+        <h3>${escapeHtml(title)}</h3>
+        ${meta ? `<p><strong>${escapeHtml(meta)}</strong></p>` : ""}
+        <p>${linkHtml(item, "misc")}</p>
+        ${commentHtml(title)}
+        <hr>
+      </section>
+    `;
   }).join("");
 }
 
 async function loadResearchmap(type, renderer) {
   const url = `${RM_API}/${RM_PERMALINK}/${type}?limit=1000&format=json`;
+
   try {
     const response = await fetch(url, {
       headers: { "Accept": "application/json" }
     });
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}`);
+    }
+
     const data = await response.json();
     const items = Array.isArray(data.items) ? data.items : [];
     renderer(items);
+
   } catch (error) {
     const rootId = type === "misc" ? "misc-list" : "presentations-list";
     document.getElementById(rootId).innerHTML =
@@ -180,6 +231,6 @@ async function loadResearchmap(type, renderer) {
   }
 }
 
-loadResearchmap("misc", renderMisc);
 loadResearchmap("presentations", renderPresentations);
+loadResearchmap("misc", renderMisc);
 </script>
