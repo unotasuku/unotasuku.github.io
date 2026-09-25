@@ -1,6 +1,9 @@
 ---
 title : 聴いた音楽のリスト
 draft: true
+date: today
+date-format: "YYYY年M月D日"
+published-title: "最終更新日"
 ---
 
 ## 2026年

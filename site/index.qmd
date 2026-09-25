@@ -1,5 +1,5 @@
 ---
-title: "宇野佑　TASUKU Uno"
+title: "宇野佑　tasuku uno"
 date: today
 date-format: "YYYY年M月D日"
 published-title: "最終更新日"
