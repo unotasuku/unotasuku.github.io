@@ -22,7 +22,7 @@ Resarchmapは[こちら](https://researchmap.jp/uno.tasuku)。たいていの発
 
 ***
 
-- [研究業績](research.qmd)
+- [研究](research.qmd)
 
 - [モクテル関連資料集](../source/index.qmd)
 
