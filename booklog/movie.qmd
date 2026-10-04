@@ -1,6 +1,5 @@
 ---
 title : 見た映画のリスト
-draft: true
 date: today
 date-format: "YYYY年M月D日"
 published-title: "最終更新日"
@@ -9,7 +8,7 @@ published-title: "最終更新日"
 ## 2026年
 <br>
 
-1. アイアンマン
+1. アイアンマン(2008).久しぶりに見返す。最初から手続きについての話があるんだなとか。
 
 2.
 
