@@ -1,8 +1,5 @@
 ---
 title : 見たドラマのリスト
-date: today
-date-format: "YYYY年M月D日"
-published-title: "最終更新日"
 ---
 
 ## 2026年見たドラマ
