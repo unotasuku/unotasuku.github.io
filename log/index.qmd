@@ -11,6 +11,8 @@ title : 見たもの聞いたもの作ったもの
 
 [料理のリスト](cooking.qmd)
 
+[遊びで作ったソフト](soft.qmd)
+
 <br>
 
 [トップへ戻る](../site/index.qmd)

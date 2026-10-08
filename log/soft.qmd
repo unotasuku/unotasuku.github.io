@@ -2,3 +2,5 @@
 title : 遊びで作ったソフト
 draft: true
 ---
+
+[トップへ戻る](../site/index.qmd)
