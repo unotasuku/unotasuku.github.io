@@ -1,8 +1,10 @@
 ---
-title : 遊びで作ったソフト
-draft:true 
+title: "遊びで作ったソフト"
+draft: true
 ---
 
+<div id="presentations-list">
+</div>
 10月6日
 ダムや新町に行く交差点で左ですかと聞く。
 わからないならわからないと伝えるように言う。
