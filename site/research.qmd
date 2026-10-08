@@ -16,6 +16,8 @@ published-title: "最終更新日"
 ---
 ## 論文
 
+<div id="published_papers-list">researchmap から読み込み中...</div>
+
 ---
 ## 講演・口頭発表等
 
