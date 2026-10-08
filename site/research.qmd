@@ -13,12 +13,12 @@ published-title: "最終更新日"
 
 [researchmap のプロフィール](https://researchmap.jp/uno.tasuku)
 
----
+***
 ## 講演・口頭発表等
 
 <div id="presentations-list">researchmap から読み込み中...</div>
 
----
+***
 
 ## MISC
 
