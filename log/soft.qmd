@@ -1,4 +1,4 @@
 ---
-title: "遊びで作ったソフト"
+title : 遊びで作ったソフト
 draft: true
 ---
