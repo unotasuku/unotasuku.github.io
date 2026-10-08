@@ -10,7 +10,7 @@ website:
         text: "home"
       - href: site/research.qmd
         text: "resarch"
-      - href: site/diary.qmd
+      - href: site/posts/diary.qmd
         text: "diary"
 
 format:
