@@ -5,6 +5,7 @@ title: "日記一覧"
 ## 2026年
 
 - [9月](202609diary.qmd)
--[10月](202610diary.qmd)
+- [10月](202610diary.qmd)
+- [11月](202611diary.qmd)
 
 [トップへ戻る](../site/index.qmd)
