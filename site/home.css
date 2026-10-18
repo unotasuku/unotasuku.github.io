@@ -1,0 +1,63 @@
+/* Home page only. Static layout with no animation or scripts. */
+.uno-home {
+  --bg:#faf9f6; --ink:#292a27; --muted:#777870; --line:#dfdfd8; --accent:#73624e;
+  box-sizing:border-box;
+  max-width:1040px;
+  margin:0 auto;
+  color:var(--ink);
+  background:var(--bg);
+  font-family:"BIZ UDPGothic","BIZ UDGothic","Hiragino Sans","Yu Gothic",Meiryo,sans-serif;
+  font-size:15px;
+  line-height:1.84;
+  font-weight:400;
+  letter-spacing:.005em;
+}
+.uno-home *, .uno-home *::before,.uno-home *::after {box-sizing:border-box;}
+.uno-home a {color:inherit;text-decoration:none; text-underline-offset:.2em;}
+.uno-home a:hover {text-decoration:underline;text-decoration-thickness:1px;}
+.uno-home a:focus-visible {outline:2px solid var(--accent);outline-offset:4px;}
+.uno-home .hero {display:grid;grid-template-columns:minmax(0,1fr) 35%;align-items:stretch;gap:46px;padding:56px 0 44px;border-bottom:1px solid var(--line);}
+.uno-home .eyebrow {display:block;color:var(--muted);font-size:10.5px;font-weight:700;letter-spacing:.12em;line-height:1.7;}
+.uno-home .hero h1 {font-size:clamp(35px,4.1vw,51px);font-weight:700;letter-spacing:.09em;line-height:1.38;margin:15px 0 3px;padding:0;border:0;color:var(--ink);}
+.uno-home .hero .roman {font-size:13px;color:var(--muted);letter-spacing:.07em;margin:0 0 14px;}
+.uno-home .hero .role {font-size:13px;font-weight:700;letter-spacing:.04em;margin:14px 0 7px;}
+.uno-home .hero .intro {font-size:14px;line-height:1.95;color:#575750;margin:0;max-width:560px;}
+.uno-home .hero-contact {display:flex;align-items:baseline;gap:13px;margin:21px 0 0;font-size:12px;}
+.uno-home .hero-contact>span:first-child {color:var(--muted);font-size:10px;font-weight:700;letter-spacing:.11em;text-transform:uppercase;}
+.uno-home .address {font-weight:400;color:var(--ink);text-decoration:underline;text-decoration-color:#bdb7aa;text-underline-offset:3px;}
+.uno-home .hero-photo {margin:0;min-height:228px;overflow:hidden;background:#37291e;align-self:stretch;}
+.uno-home .hero-photo img {display:block;width:100%;height:100%;min-height:228px;object-fit:cover;object-position:center 50%;filter:saturate(.88) contrast(.97);}
+.uno-home .home-map {display:grid;grid-template-columns:minmax(0,1.34fr) minmax(0,.86fr);column-gap:63px;padding:33px 0 29px;}
+.uno-home .map-title {margin:0 0 12px;color:var(--muted);font-size:11px;font-weight:700;letter-spacing:.11em;text-transform:uppercase;line-height:1.5;}
+.uno-home .map-list,.uno-home .feature-list {border-top:1px solid var(--line);}
+.uno-home .map-link {padding:10px 0 11px;display:grid;grid-template-columns:25px minmax(0,1fr) 20px;align-items:center;gap:10px;border-bottom:1px solid var(--line);}
+.uno-home .map-link:hover {text-decoration:none;}
+.uno-home .map-link:hover .map-name {text-decoration:underline;text-underline-offset:4px;}
+.uno-home .map-index {align-self:start;color:#a6a49d;font-size:11px;padding-top:5px;font-variant-numeric:tabular-nums;}
+.uno-home .map-name {display:block;font-size:15px;font-weight:700;line-height:1.4;}
+.uno-home .map-desc {display:block;color:var(--muted);font-size:12px;line-height:1.65;margin-top:3px;}
+.uno-home .map-arrow {font-size:17px;color:#979488;font-weight:300;}
+.uno-home .feature-item {display:block;padding:13px 0 14px;border-bottom:1px solid var(--line);}
+.uno-home .feature-item span {display:block;}
+.uno-home .feature-item .feature-type {color:var(--muted);font-size:11px;letter-spacing:.05em;line-height:1.45;margin-bottom:4px;}
+.uno-home .feature-item .feature-name {color:var(--ink);font-size:13px;font-weight:400;line-height:1.65;}
+.uno-home .feature-item .feature-name span {display:inline;}
+.uno-home .feature-all {display:inline-block;font-size:12px;color:var(--accent);margin-top:13px;}
+.uno-home .home-footer {border-top:1px solid var(--line);padding:16px 0 20px;display:flex;justify-content:space-between;align-items:center;gap:12px;}
+.uno-home .footer-links {display:flex;flex-wrap:wrap;gap:20px;}
+.uno-home .home-footer a,.uno-home .home-footer span {font-size:11px;color:var(--muted);}
+@media(max-width:850px){
+ .uno-home .hero {grid-template-columns:minmax(0,1fr) 37%;gap:25px;}
+ .uno-home .home-map {column-gap:26px;}
+}
+@media(max-width:670px){
+ .uno-home {font-size:14px;}
+ .uno-home .hero {padding:29px 0 30px;grid-template-columns:1fr;gap:22px;}
+ .uno-home .hero h1 {font-size:37px;}
+ .uno-home .eyebrow {font-size:9px;}
+ .uno-home .hero-photo {min-height:0;height:auto;max-height:320px;}
+ .uno-home .hero-photo img {min-height:0;aspect-ratio:16/10;object-fit:cover;}
+ .uno-home .home-map {grid-template-columns:1fr;gap:27px;padding:28px 0 29px;}
+ .uno-home .home-footer {align-items:flex-start;flex-direction:column;gap:8px;}
+ .uno-home .footer-links {gap:8px 20px;}
+}
