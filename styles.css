@@ -1,5 +1,30 @@
-p {
-  margin-top: 0;
-  margin-bottom: 0.3em;
-  line-height: 1.5;
-}
+@import url('https://fonts.googleapis.com/css2?family=BIZ+UDPGothic:wght@400;700&display=swap');
+
+/* Shared typography: preserve the Quarto content and researchmap integration. */
+:root {--uno-bg:#faf9f6;--uno-ink:#292a27;--uno-muted:#777870;--uno-line:#dfdfd8;}
+html {scroll-behavior:auto;}
+body {background:var(--uno-bg);color:var(--uno-ink);font-family:"BIZ UDPGothic","BIZ UDGothic","Hiragino Sans","Yu Gothic",Meiryo,sans-serif;font-weight:400;letter-spacing:.005em;font-size:15px;line-height:1.82;-webkit-font-smoothing:antialiased;}
+p {margin-top:0;margin-bottom:.9em;line-height:1.9;}
+h1,h2,h3 {color:var(--uno-ink);letter-spacing:.025em;line-height:1.5;}
+h1 {font-weight:700;}
+h2 {font-size:1.4rem;font-weight:700;margin-top:2.1rem;}
+h3 {font-size:1.13rem;font-weight:700;}
+a {text-underline-offset:3px;}
+a:focus-visible {outline:2px solid #73624e;outline-offset:3px;}
+.navbar {background:var(--uno-bg)!important;border-bottom:1px solid var(--uno-line);box-shadow:none!important;}
+.navbar .nav-link {font-size:.89rem;font-weight:400;}
+#quarto-content main.content {max-width:820px;}
+#quarto-content main.content img {max-width:100%;height:auto;}
+.research-entry {padding:12px 0 14px;border-bottom:1px solid var(--uno-line);}
+.research-entry h3 {font-size:1.06rem;line-height:1.5;margin:.3em 0 .3em;}
+.research-entry p {font-size:.9rem;margin:.25em 0 .5em;}
+.research-entry p strong {font-weight:400;color:#66665f;}
+.research-entry hr {display:none;}
+.research-comment {margin:12px 0;padding:10px 14px;border-left:2px solid #b6a48d;background:#f3f1ed;}
+.research-comment h4 {margin:0 0 6px;font-size:.88rem;}
+.research-comment p {margin:0;}
+blockquote {border-left:2px solid #b6a48d;padding-left:18px;color:#595850;}
+body:has(.uno-home) #title-block-header {display:none;}
+body:has(.uno-home) #quarto-content main.content {max-width:none;padding-top:0;}
+body:has(.uno-home) #quarto-content {max-width:none;}
+@media(max-width:670px){body{font-size:14px;}#quarto-content main.content{max-width:100%;}}
