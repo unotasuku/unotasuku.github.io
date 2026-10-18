@@ -1,35 +1,40 @@
 ---
-title: "宇野佑　tasuku uno"
-date: today
-date-format: "YYYY年M月D日"
-published-title: "最終更新日"
+title: "宇野 佑 / Tasuku Uno"
+lang: ja
+toc: false
+page-layout: full
+format:
+  html:
+    css:
+      - ../styles.css
+      - home.css
 ---
-***
 
-e-mail : tasukuuno926[at]gmail.com
-
-<br>
-
-言語聴覚士。日曜哲学者。
-
-読んだ論文や本のノートやモクテル関連の資料、日記などを置くつもりです。
-
-日々の記録をできる限り残す場所です。
-
-<br>
-
-Resarchmapは[こちら](https://researchmap.jp/uno.tasuku)。たいていの発表資料や論文はここに置いてます。
-
-***
-
-- [研究](research.qmd)
-
-- [モクテル資料集](../source/index.qmd)
-
-- [雑記](../posts/index.qmd)
-
-- [日記](../diary/index.qmd)
-
-- [読んだり見たり作ったり](../log/index.qmd)
-
-***
+<div class="uno-home">
+  <section class="hero" aria-labelledby="hero-name">
+    <div class="hero-copy">
+      <span class="eyebrow">PERSONAL WEBSITE · PHILOSOPHY / REHABILITATION / NOTES</span>
+      <h1 id="hero-name">宇野 佑</h1>
+      <p class="roman">Tasuku Uno</p>
+      <p class="role">言語聴覚士。日曜哲学者。</p>
+      <p class="intro">バーやカクテルの哲学・倫理学、言語聴覚療法、モクテルをめぐる研究と関心。ここには研究業績、読書ノート、関連資料、日々の記録をまとめています。</p>
+      <p class="hero-contact"><span>Email</span><span class="address">tasukuuno926[at]gmail.com</span></p>
+    </div>
+    <figure class="hero-photo"><img src="assets/cocktail.jpg" width="480" height="360" alt="バーのカウンターで撮影したカクテル"></figure>
+  </section>
+  <section class="home-map" aria-label="サイトの案内">
+    <div class="directory">
+      <h2 class="map-title">EXPLORE / このサイトにあるもの</h2>
+      <nav class="map-list" aria-label="コンテンツ一覧"><a class="map-link" href="../site/research.qmd"><span class="map-index">01</span><span><span class="map-name">研究・発表</span><span class="map-desc">哲学・倫理学、言語聴覚療法、研究業績の一覧</span></span><span class="map-arrow" aria-hidden="true">↗</span></a><a class="map-link" href="../posts/index.qmd"><span class="map-index">02</span><span><span class="map-name">雑記・読書ノート</span><span class="map-desc">哲学の論文ノート、音楽や批評についての文章</span></span><span class="map-arrow" aria-hidden="true">↗</span></a><a class="map-link" href="../source/index.qmd"><span class="map-index">03</span><span><span class="map-name">モクテル資料集</span><span class="map-desc">嚥下・味・物性・調理技術などの関連資料</span></span><span class="map-arrow" aria-hidden="true">↗</span></a><a class="map-link" href="../diary/index.qmd"><span class="map-index">04</span><span><span class="map-name">日記</span><span class="map-desc">日々の記録を月ごとに</span></span><span class="map-arrow" aria-hidden="true">↗</span></a><a class="map-link" href="../log/index.qmd"><span class="map-index">05</span><span><span class="map-name">読んだり見たり作ったり</span><span class="map-desc">本、映画、音楽、料理、制作の記録</span></span><span class="map-arrow" aria-hidden="true">↗</span></a></nav>
+    </div>
+    <aside class="features" aria-labelledby="selected-heading">
+      <h2 class="map-title" id="selected-heading">SELECTED READING / まず読むなら</h2>
+      <div class="feature-list"><a class="feature-item" href="../posts/schramme-2023-health.qmd"><span class="feature-type">Note · Philosophy of health</span><span class="feature-name">Schrammeの健康概念についてのノート <span aria-hidden="true">↗</span></span></a><a class="feature-item" href="../posts/prince-kiss.qmd"><span class="feature-type">Essay · Music / Interpretation</span><span class="feature-name">Princeの「Kiss」の歌詞は価値観の提示か、それともストーリーか？ <span aria-hidden="true">↗</span></span></a><a class="feature-item" href="../source/mocktail.qmd"><span class="feature-type">Resources · Mocktails</span><span class="feature-name">嚥下と飲料・モクテル研究につながる資料 <span aria-hidden="true">↗</span></span></a></div>
+      <a class="feature-all" href="../posts/index.qmd">文章の一覧を見る →</a>
+    </aside>
+  </section>
+  <footer class="home-footer">
+    <div class="footer-links"><a href="https://researchmap.jp/uno.tasuku">researchmap ↗</a><span>tasukuuno926[at]gmail.com</span></div>
+    <span>© Tasuku Uno</span>
+  </footer>
+</div>

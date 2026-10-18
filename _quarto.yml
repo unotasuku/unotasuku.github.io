@@ -1,17 +1,27 @@
 project:
   type: website
+  resources:
+    - site/assets/cocktail.jpg
 
 website:
   google-analytics: "G-BTBHJJ9F71"
+  search: false
   navbar:
-    collapse: false
-    left: 
+    collapse: true
+    left:
       - href: site/index.qmd
-        text: "home"
+        text: "Home"
       - href: site/research.qmd
-        text: "resarch"
+        text: "研究"
+      - href: posts/index.qmd
+        text: "文章"
+      - href: source/index.qmd
+        text: "資料"
+      - href: diary/index.qmd
+        text: "日記"
 
 format:
   html:
+    lang: ja
     toc: false
     css: styles.css
