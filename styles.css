@@ -28,3 +28,49 @@ body:has(.uno-home) #title-block-header {display:none;}
 body:has(.uno-home) #quarto-content main.content {max-width:none;padding-top:0;}
 body:has(.uno-home) #quarto-content {max-width:none;}
 @media(max-width:670px){body{font-size:14px;}#quarto-content main.content{max-width:100%;}}
+
+/* Symmetric reading layout: keep both outer gutters equal instead of
+   reserving extra space on the right for Quarto's margin column. */
+#quarto-content.page-columns {
+  grid-template-columns:
+    [screen-start] minmax(20px, 1fr)
+    [screen-start-inset page-start page-start-inset body-start-outset body-start body-content-start]
+    minmax(0, 820px)
+    [body-content-end body-end body-end-outset page-end-inset page-end screen-end-inset]
+    minmax(20px, 1fr)
+    [screen-end];
+}
+#quarto-content main.content {
+  width: 100%;
+  min-width: 0;
+  margin-inline: auto;
+}
+/* The home page can use a wider, but still perfectly centered, canvas. */
+body:has(.uno-home) #quarto-content.page-columns {
+  grid-template-columns:
+    [screen-start] minmax(20px, 1fr)
+    [screen-start-inset page-start page-start-inset body-start-outset body-start body-content-start]
+    minmax(0, 1040px)
+    [body-content-end body-end body-end-outset page-end-inset page-end screen-end-inset]
+    minmax(20px, 1fr)
+    [screen-end];
+}
+body:has(.uno-home) #quarto-content main.content {
+  display: block;
+  max-width: 1040px;
+}
+body:has(.uno-home) #quarto-content .uno-home {
+  display: block;
+  width: 100%;
+  margin-inline: auto;
+}
+/* Quarto adds page-columns to nested home sections during rendering;
+   restore the intended two-column directory grid. */
+body:has(.uno-home) #quarto-content .uno-home .home-map > * {
+  grid-column: auto;
+}
+@media (min-width: 992px) {
+  .navbar .navbar-nav {
+    margin-inline: auto !important;
+  }
+}
