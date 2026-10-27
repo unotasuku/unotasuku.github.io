@@ -1,8 +1,5 @@
 ---
 title: "研究"
-date: today
-date-format: "YYYY年M月D日"
-published-title: "最終更新日"
 ---
 
 バー、カクテルの哲学といった哲学・倫理学関係の分野のものが中心です。
